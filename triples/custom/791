@@ -1,0 +1,1 @@
+{"doc_id": "791", "passages": {"rdf_passage_1": "TRUE ( dbr:COVID-19 hkg:risk dbr:Asthma )\nTRUE ( dbr:COVID-19 hkg:risk dbr:ChronicLungDisease )\nTRUE ( dbr:COVID-19 hkg:risk dbr:Diabetes )\nTRUE ( dbr:COVID-19 hkg:risk dbr:Hypertension ) \nTRUE ( dbr:COVID-19 hkg:treatment dbr:PfizerBioNTechCOVID19Vaccine ) \n\n\n"}}

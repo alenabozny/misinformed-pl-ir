@@ -1,0 +1,1 @@
+{"doc_id": "2557", "passages": {"rdf_passage_1": "TRUE ( dbr:HeartDisease hkg:cause dbr:OxidizedCholesterol )\nTRUE ( dbr:HeartDisease hkg:risk dbr:FastFood )\nTRUE ( dbr:HeartDisease hkg:risk dbr:Smoking )\nTRUE ( dbr:HeartDisease hkg:risk dbr:FriedFood ) \nTRUE ( dbr:HeartDisease hkg:risk dbr:UsedFat ) \n\n\n"}}

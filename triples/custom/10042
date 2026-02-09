@@ -1,0 +1,1 @@
+{"doc_id": "10042", "passages": {"rdf_passage_1": "TRUE ( dbr:Cholesterol_elevated_levels hkg:risk dbr:Coronary_artery_disease )\nTRUE ( dbr:Cholesterol_elevated_levels hkg:cause dbr:Pharmacological_treatment )\nTRUE ( dbr:Cholesterol_elevated_levels hkg:prevention dbr:Statin ) \n\n\n"}}

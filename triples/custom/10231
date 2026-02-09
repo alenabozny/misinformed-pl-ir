@@ -1,0 +1,1 @@
+{"doc_id": "10231", "passages": {"rdf_passage_1": "FALSE ( dbr:Disease hkg:treatment ozone_therapy )\nTRUE ( dbr:Disease hkg:cause  reduced oxygen absorption by the lungs )\nTRUE ( dbr:Disease hkg:cause general body weakness ) \nTRUE ( dbr:Disease hkg:complication deteriorating metabolism ) \n"}}

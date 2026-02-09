@@ -1,0 +1,1 @@
+{"doc_id": "9987", "passages": {"rdf_passage_1": "TRUE ( dbr:Atherosclerosis hkg:prevention dbr:Statin ) \nTRUE ( dbr:Atherosclerosis hkg:complication dbr:Death ) \nFALSE ( dbr:Atherosclerosis hkg:cause dbr:Cholesterol ) \n\n\n"}}

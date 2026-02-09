@@ -1,0 +1,1 @@
+{"doc_id": "9616", "passages": {"rdf_passage_1": "TRUE ( dbr:Coronavirus hkg:cause dbr:LungInfection ) \nTRUE ( dbr:Coronavirus hkg:symptom dbr:LowBloodOxygen ) \nTRUE ( dbr:Coronavirus hkg:diagnosis dbr:CoronavirusDisease2019 ) \n"}}

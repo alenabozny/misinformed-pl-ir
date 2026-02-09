@@ -1,0 +1,1 @@
+{"doc_id": "1070", "passages": {"rdf_passage_1": "TRUE ( dbr:HeartAttack hkg:risk dbr:CholesterolConsumption )\nTRUE ( dbr:Stroke hkg:risk dbr:CholesterolConsumption )\nTRUE ( dbr:CirculationProblem hkg:risk dbr:CholesterolConsumption ) \n"}}

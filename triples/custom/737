@@ -1,0 +1,1 @@
+{"doc_id": "737", "passages": {"rdf_passage_1": "TRUE ( dbr:Coronary_artery_disease hkg:treatment evolocumab ) \nTRUE ( dbr:High_cholesterol hkg:risk dbr:Coronary_artery_disease ) \nTRUE ( dbr:High_cholesterol hkg:cause dbr:Coronary_artery_disease ) \n\n\n"}}

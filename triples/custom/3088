@@ -1,0 +1,1 @@
+{"doc_id": "3088", "passages": {"rdf_passage_1": "```\nTRUE ( dbr:Asthma hkg:diagnosis dbr:Vaccination )\nTRUE ( dbr:Asthma hkg:risk  dbr:COVID19 )\nFALSE ( dbr:Asthma hkg:complication dbr:COVID19 )\n``` \n\n\n"}}

@@ -1,0 +1,1 @@
+{"doc_id": "5468", "passages": {"rdf_passage_1": "TRUE ( dbr:Hypertension hkg:cause dbr:Obesity )\nTRUE ( dbr:Hypertension hkg:risk dbr:Alcohol )\nTRUE ( dbr:Hypertension hkg:complication dbr:WeakenedImmuneSystem ) \nFALSE ( dbr:Hypertension hkg:treatment dbr:Vodka ) \n"}}

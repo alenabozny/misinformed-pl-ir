@@ -1,0 +1,1 @@
+{"doc_id": "1993", "passages": {"rdf_passage_1": "TRUE ( dbr:Influenza hkg:risk dbr:ElderlyPerson )\nTRUE ( dbr:Influenza hkg:risk dbr:Child )\nTRUE ( dbr:Influenza hkg:risk dbr:ChronicallyIllPerson ) \n"}}

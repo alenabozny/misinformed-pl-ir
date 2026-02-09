@@ -1,0 +1,1 @@
+{"doc_id": "5494", "passages": {"rdf_passage_1": "Here are the RDF triples based on the provided text:\n\nTRUE ( dbr:Alcoholism hkg:cause dbr:Alcohol )\nTRUE ( dbr:Alcoholism hkg:diagnosis dbr:Disease ) \nFALSE ( dbr:Alcoholism hkg:treatment dbr:Vodka )\n\n\nLet me know if you'd like me to analyze any other text snippets. \n"}}

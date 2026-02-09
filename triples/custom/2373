@@ -1,0 +1,1 @@
+{"doc_id": "2373", "passages": {"rdf_passage_1": "TRUE ( dbr:High_cholesterol hkg:treatment dbr:Exercise_test )\nFALSE ( dbr:High_cholesterol hkg:complication dbr:Exercise_test ) \nTRUE ( dbr:High_cholesterol hkg:cause dbr:Abnormality ) \n\n\n"}}

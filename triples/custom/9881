@@ -1,0 +1,1 @@
+{"doc_id": "9881", "passages": {"rdf_passage_1": "TRUE ( dbr:Skeletal_muscle_disorder hkg:treatment dbr:Statin )\nTRUE ( dbr:Liver_disease hkg:complication dbr:Elevated_transaminase_levels )\nTRUE ( dbr:Pregnancy hkg:complication dbr:Statin ) \nTRUE ( dbr:Pregnancy hkg:risk dbr:Fetal_damage )\n"}}

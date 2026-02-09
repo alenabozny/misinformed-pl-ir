@@ -1,0 +1,1 @@
+{"doc_id": "2487", "passages": {"rdf_passage_1": "TRUE ( dbr:High_cholesterol hkg:risk dbr:Death ) \nTRUE ( dbr:High_cholesterol hkg:cause dbr:Atherosclerosis )\nFALSE ( dbr:High_cholesterol hkg:treatment dbr:Coconut_oil )  \n"}}

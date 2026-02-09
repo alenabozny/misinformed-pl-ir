@@ -1,0 +1,1 @@
+{"doc_id": "9653", "passages": {"rdf_passage_1": "```\nTRUE ( dbr:COVID-19 hkg:symptom dbr:Cough )\nTRUE ( dbr:COVID-19 hkg:complication dbr:Prolonged_lower_respiratory_tract_infection )\nTRUE ( dbr:COVID-19 hkg:treatment dbr:Antibiotics )\nTRUE ( dbr:COVID-19 hkg:treatment dbr:Antitussive_medication ) \nTRUE ( dbr:COVID-19 hkg:risk dbr:Immunosuppression )\n```"}}

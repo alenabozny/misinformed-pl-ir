@@ -1,0 +1,1 @@
+{"doc_id": "97", "passages": {"rdf_passage_1": "TRUE ( dbr:Heart_Disease hkg:cause dbr:Stress )\nTRUE ( dbr:Heart_Disease hkg:cause dbr:Social_isolation )\nTRUE ( dbr:Heart_Disease hkg:complication dbr:Cardiovascular_disease ) \nFALSE ( dbr:Heart_Disease hkg:treatment dbr:Nuclear_family ) \nFALSE ( dbr:Heart_Disease hkg:medication dbr:Helplessness ) \n\n\n"}}

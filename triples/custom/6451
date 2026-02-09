@@ -1,0 +1,1 @@
+{"doc_id": "6451", "passages": {"rdf_passage_1": "TRUE ( dbr:Heart_attack hkg:treatment dbr:Chelation_therapy ) \nTRUE ( dbr:Heart_attack hkg:complication dbr:Stroke ) \nTRUE ( dbr:Heart_attack hkg:complication dbr:Angina ) \n"}}

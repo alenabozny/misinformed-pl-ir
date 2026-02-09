@@ -1,0 +1,1 @@
+{"doc_id": "2910", "passages": {"rdf_passage_1": "TRUE ( dbr:Cancer hkg:cause dbr:Cholesterol_deficiency )\nTRUE ( dbr:Cancer hkg:risk dbr:Simvastatin )\nTRUE ( dbr:Cancer hkg:risk dbr:Ezetimib ) \n"}}

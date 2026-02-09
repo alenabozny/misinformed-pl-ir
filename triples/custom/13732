@@ -1,0 +1,1 @@
+{"doc_id": "13732", "passages": {"rdf_passage_1": "TRUE ( dbr:Mercury hkg:medication dbr:Vaccines ) \nFALSE ( dbr:Mercury hkg:complication dbr:Disease ) \nFALSE ( dbr:Mercury hkg:cause dbr:Disease )\nFALSE ( dbr:Mercury hkg:prevention dbr:Disease ) \n\n\n"}}

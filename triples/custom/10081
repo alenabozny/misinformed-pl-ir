@@ -1,0 +1,1 @@
+{"doc_id": "10081", "passages": {"rdf_passage_1": "TRUE ( dbr:LiverCirrhosis hkg:cause dbr:Statin ) \nTRUE ( dbr:Jaundice hkg:symptom dbr:Statin )\nTRUE ( dbr:LiverEnlargement hkg:symptom dbr:Statin ) \nTRUE ( dbr:ElevatedBilirubinLevel hkg:symptom dbr:Statin )\nTRUE ( dbr:Myopathy hkg:symptom dbr:Statin ) \n\n\n"}}

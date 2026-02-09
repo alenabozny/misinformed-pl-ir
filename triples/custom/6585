@@ -1,0 +1,1 @@
+{"doc_id": "6585", "passages": {"rdf_passage_1": "TRUE ( dbr:HighDensityLipoprotein hkg:cause dbr:Hypercholesterolemia )\nTRUE ( dbr:LowDensityLipoprotein hkg:cause dbr:Hypercholesterolemia )\nTRUE ( dbr:Hypercholesterolemia hkg:risk dbr:CardiovascularDisease ) \nTRUE ( dbr:Hypercholesterolemia hkg:risk dbr:VascularDisease ) \n\n\n"}}

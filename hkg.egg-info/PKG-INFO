@@ -1,0 +1,17 @@
+Metadata-Version: 2.1
+Name: hkg
+Version: 0.1
+Summary: Health Knowledge Graph
+Home-page: https://github.com/GianCarloMilanese/health_knowledge_graph
+Author: Gian Carlo Milanese
+Author-email: giancarlomilanese@unimib.com
+License: UNKNOWN
+Platform: UNKNOWN
+Classifier: Programming Language :: Python :: 3
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Operating System :: OS Independent
+Requires-Python: >=3.9
+License-File: LICENSE
+
+UNKNOWN
+

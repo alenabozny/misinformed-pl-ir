@@ -1,0 +1,1 @@
+{"doc_id": "3070", "passages": {"rdf_passage_1": "TRUE ( dbr:Asthma hkg:diagnosis dbr:Spirometry )\nTRUE ( dbr:Asthma hkg:symptom dbr:Deterioration ) \nTRUE ( dbr:Asthma hkg:treatment dbr:SelfObservation ) \n"}}

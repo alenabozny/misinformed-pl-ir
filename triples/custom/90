@@ -1,0 +1,1 @@
+{"doc_id": "90", "passages": {"rdf_passage_1": "TRUE ( dbr:Heart_attack hkg:prevention dbr:Statin )\nTRUE ( dbr:Stroke hkg:prevention dbr:Statin )\nTRUE ( dbr:Heart_disease hkg:risk dbr:Low_risk_of_developing_heart_disease ) \n"}}

@@ -1,0 +1,1 @@
+{"doc_id": "6877", "passages": {"rdf_passage_1": "TRUE ( dbr:Autism_Spectrum_Disorder hkg:symptom dbr:Intestinal_inflammation ) \nFALSE ( dbr:Autism_Spectrum_Disorder hkg:cause dbr:Vaccination )\nTRUE ( dbr:Autism_Spectrum_Disorder hkg:diagnosis dbr:Diagnosis ) \n\n\n"}}

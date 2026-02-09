@@ -1,0 +1,1 @@
+{"doc_id": "101", "passages": {"rdf_passage_1": "FALSE ( dbr:Disease hkg:treatment dbr:Simvastatin ) \nTRUE ( dbr:Disease hkg:complication dbr:Adverse effects ) \nFALSE ( dbr:Disease hkg:cause dbr:Statins ) \n\n\n"}}

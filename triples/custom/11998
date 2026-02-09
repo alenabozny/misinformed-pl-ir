@@ -1,0 +1,1 @@
+{"doc_id": "11998", "passages": {"rdf_passage_1": "TRUE ( dbr:NervousSystemDamage hkg:cause dbr:Poisoning )\nTRUE ( dbr:NervousSystemDamage hkg:symptom dbr:NeurologicalSymptom ) \nTRUE ( dbr:NervousSystemDamage hkg:symptom dbr:PhysiologicalSymptom )\nTRUE ( dbr:NervousSystemDamage hkg:complication dbr:BrainDamage )\n\n\n\n"}}

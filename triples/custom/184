@@ -1,0 +1,1 @@
+{"doc_id": "184", "passages": {"rdf_passage_1": "TRUE ( dbr:COVID-19 hkg:complication dbr:Ischemia-reperfusion_injury )\nTRUE ( dbr:Sepsis hkg:cause dbr:Ischemia-reperfusion_injury )\nTRUE ( dbr:Intubation hkg:risk dbr:COVID-19 ) \n"}}

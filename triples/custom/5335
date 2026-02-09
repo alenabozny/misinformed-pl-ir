@@ -1,0 +1,1 @@
+{"doc_id": "5335", "passages": {"rdf_passage_1": "TRUE ( dbr:HeartAttack hkg:prevention dbr:Statin )\nTRUE ( dbr:HeartAttack hkg:complication dbr:AtheroscleroticPlaqueRupture ) \nTRUE ( dbr:HeartAttack hkg:treatment dbr:AngiotensinReceptorBlocker ) \n\n\n"}}

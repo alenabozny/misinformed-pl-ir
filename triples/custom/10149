@@ -1,0 +1,1 @@
+{"doc_id": "10149", "passages": {"rdf_passage_1": "FALSE ( dbr:Cholesterol hkg:complication dbr:MentalHealth ) \nFALSE ( dbr:Cholesterol hkg:treatment dbr:Diet ) \nTRUE ( dbr:Cholesterol hkg:risk dbr:Diabetes ) \n"}}

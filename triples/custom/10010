@@ -1,0 +1,1 @@
+{"doc_id": "10010", "passages": {"rdf_passage_1": "FALSE ( dbr:High_cholesterol hkg:cause dbr:Stress ) \nTRUE ( dbr:High_cholesterol hkg:risk dbr:Trans_fat ) \nTRUE ( dbr:High_cholesterol hkg:risk dbr:Saturated_fat ) \nTRUE ( dbr:High_cholesterol hkg:prevention dbr:Fiber ) \n"}}

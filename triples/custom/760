@@ -1,0 +1,1 @@
+{"doc_id": "760", "passages": {"rdf_passage_1": "TRUE ( dbr:High_cholesterol hkg:treatment dbr:Statins )\nTRUE ( dbr:High_cholesterol hkg:complication dbr:Heart_failure ) \nFALSE ( dbr:High_cholesterol hkg:cause dbr:Coenzyme_Q10_deficiency ) \n\n\n"}}

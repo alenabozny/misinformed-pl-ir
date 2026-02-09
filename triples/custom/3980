@@ -1,0 +1,1 @@
+{"doc_id": "3980", "passages": {"rdf_passage_1": "Here are the RDF triples generated based on your provided text:\n\nTRUE ( dbr:Congestive_heart_failure hkg:symptom dbr:Redness )\nFALSE ( dbr:Cyanosis hkg:treatment dbr:Clubbed_fingers )\nFALSE ( dbr:Polycythemia hkg:medication dbr:Erythropoietin )\n\n\nLet me know if you have any other text snippets you'd like me to analyze!\n"}}

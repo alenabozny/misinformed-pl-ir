@@ -1,0 +1,1 @@
+{"doc_id": "4175", "passages": {"rdf_passage_1": "TRUE ( dbr:Irregular_heartbeat hkg:complication dbr:Stroke )\nTRUE ( dbr:Irregular_heartbeat hkg:complication dbr:Heart_failure )\nTRUE ( dbr:Infertility hkg:cause dbr:Alcohol )\nTRUE ( dbr:Low_sperm_count hkg:cause dbr:Alcohol ) \n\n\n"}}

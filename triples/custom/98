@@ -1,0 +1,1 @@
+{"doc_id": "98", "passages": {"rdf_passage_1": "TRUE ( dbr:HeartDisease hkg:risk dbr:ContinuousWorrying )\nTRUE ( dbr:HeartDisease hkg:risk dbr:WorkingForUnfeelingBoss )\nTRUE ( dbr:HeartDisease hkg:risk dbr:Racism )\nFALSE ( dbr:HeartDisease hkg:complication dbr:Statins ) \nTRUE ( dbr:HeartDisease hkg:treatment dbr:Statins )\n  \n"}}

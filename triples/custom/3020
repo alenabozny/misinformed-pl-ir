@@ -1,0 +1,1 @@
+{"doc_id": "3020", "passages": {"rdf_passage_1": "TRUE ( dbr:Heart_attack hkg:complication dbr:Stroke )\nTRUE ( dbr:Heart_attack hkg:cause dbr:High_cholesterol )\nTRUE ( dbr:Stroke hkg:complication dbr:Simvastatin )\nTRUE ( dbr:Heart_attack hkg:prevention dbr:Simvastatin ) \n\n\n"}}

@@ -1,0 +1,1 @@
+{"doc_id": "10424", "passages": {"rdf_passage_1": "TRUE ( dbr:OzoneTherapy hkg:treatment dbr:Ozone ) \nFALSE ( dbr:OzoneTherapy hkg:complication dbr:Blood ) \nFALSE ( dbr:OzoneTherapy hkg:cause dbr:Skin )\n\n\n"}}

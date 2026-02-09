@@ -1,0 +1,1 @@
+{"doc_id": "2756", "passages": {"rdf_passage_1": "TRUE ( dbr:Limb_ischemia hkg:complication dbr:Amputation )\nTRUE ( dbr:Limb_ischemia hkg:cause dbr:Elevated_cholesterol )\nTRUE ( dbr:Limb_ischemia hkg:risk dbr:Diabetes )\nTRUE ( dbr:Limb_ischemia hkg:risk dbr:Smoking ) \nTRUE ( dbr:Elevated_cholesterol hkg:symptom dbr:Leg_pain ) \n\n\n"}}

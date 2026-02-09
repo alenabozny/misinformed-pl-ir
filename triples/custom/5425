@@ -1,0 +1,1 @@
+{"doc_id": "5425", "passages": {"rdf_passage_1": "TRUE ( dbr:Muscle_problems hkg:complication dbr:Alcohol_consumption )\nTRUE ( dbr:Kidney_issues hkg:complication dbr:Alcohol_consumption ) \nTRUE ( dbr:Statins hkg:medication dbr:High_cholesterol ) \nFALSE ( dbr:Cholesterol hkg:complication dbr:Alcohol_consumption ) \n\n\n"}}

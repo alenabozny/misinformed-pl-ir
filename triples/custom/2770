@@ -1,0 +1,1 @@
+{"doc_id": "2770", "passages": {"rdf_passage_1": "- TRUE ( dbr:High_cholesterol hkg:risk dbr:Muscle_damage )\n- TRUE ( dbr:High_cholesterol hkg:cause dbr:Fibrates )\n- TRUE ( dbr:High_cholesterol hkg:cause dbr:Niacin )\n- TRUE ( dbr:Liver_disease hkg:cause dbr:Fenofibrate )\n- TRUE ( dbr:High_cholesterol hkg:treatment dbr:Niacin )\n\n\n"}}

@@ -1,0 +1,1 @@
+{"doc_id": "10287", "passages": {"rdf_passage_1": "TRUE ( dbr:Cancer hkg:treatment Acupuncture ) \nTRUE ( dbr:Cancer hkg:treatment Chemotherapy ) \nTRUE ( dbr:Cancer hkg:treatment Radiotherapy ) \nTRUE ( dbr:Insomnia hkg:symptom Acupuncture ) \nTRUE ( dbr:Depression hkg:symptom Acupuncture ) \n\n\n"}}

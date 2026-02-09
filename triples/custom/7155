@@ -1,0 +1,1 @@
+{"doc_id": "7155", "passages": {"rdf_passage_1": "TRUE ( dbr:Anaphylaxis hkg:risk dbr:Vaccination ) \nFALSE ( dbr:Anaphylaxis hkg:cause dbr:COVID-19 ) \n"}}

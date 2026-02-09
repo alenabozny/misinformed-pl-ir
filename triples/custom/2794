@@ -1,0 +1,1 @@
+{"doc_id": "2794", "passages": {"rdf_passage_1": "TRUE ( dbr:Atherosclerosis hkg:cause dbr:Impotence )\nTRUE ( dbr:Statin hkg:treatment dbr:Atherosclerosis )\nTRUE ( dbr:Atherosclerosis hkg:risk dbr:Heart_Attack )\nTRUE ( dbr:Statin hkg:complication dbr:Elevated_Liver_Function_Tests ) \n\n\n"}}

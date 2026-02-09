@@ -1,0 +1,1 @@
+{"doc_id": "2784", "passages": {"rdf_passage_1": "TRUE ( dbr:Atherosclerosis hkg:risk dbr:Stroke )\nTRUE ( dbr:Atherosclerosis hkg:treatment dbr:Statin )\nTRUE ( dbr:Stroke hkg:prevention dbr:Statin )\nTRUE ( dbr:Myopathy hkg:symptom dbr:Statin ) \n\n\n"}}

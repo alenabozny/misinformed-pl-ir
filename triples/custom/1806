@@ -1,0 +1,1 @@
+{"doc_id": "1806", "passages": {"rdf_passage_1": "FALSE ( dbr:COVID-19 hkg:cause dbr:5G )\nTRUE ( dbr:COVID-19 hkg:symptom dbr:hypoxia )\nTRUE ( dbr:COVID-19 hkg:risk dbr:low_immunity )\nTRUE ( dbr:Aspirin hkg:medication dbr:COVID-19 )\nTRUE ( dbr:Apronik hkg:medication dbr:COVID-19 )\nTRUE ( dbr:Paracetamol hkg:medication dbr:COVID-19 ) \n\n\n"}}

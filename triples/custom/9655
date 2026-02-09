@@ -1,0 +1,1 @@
+{"doc_id": "9655", "passages": {"rdf_passage_1": "TRUE ( dbr:COVID-19 hkg:diagnosis dbr:hypertension )\nTRUE ( dbr:COVID-19 hkg:diagnosis dbr:heart_failure )\nTRUE ( dbr:COVID-19 hkg:risk dbr:age_over_65 ) \nFALSE ( dbr:COVID-19 hkg:treatment dbr:vitamin_C )\nFALSE ( dbr:COVID-19 hkg:treatment dbr:zinc ) \nFALSE ( dbr:COVID-19 hkg:prevention dbr:vitamin_D ) \n\n\n"}}

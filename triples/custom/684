@@ -1,0 +1,1 @@
+{"doc_id": "684", "passages": {"rdf_passage_1": "```\nTRUE ( dbr:Gilberts_syndrome hkg:complication dbr:Gallstones )\nTRUE ( dbr:Gilberts_syndrome hkg:risk dbr:Breast_cancer )\nTRUE ( dbr:Gilberts_syndrome hkg:symptom dbr:Sensitivity )\nTRUE ( dbr:Gilberts_syndrome hkg:cause dbr:Sensitivity ) \n```"}}

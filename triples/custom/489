@@ -1,0 +1,1 @@
+{"doc_id": "489", "passages": {"rdf_passage_1": "- TRUE ( dbr:Asthma hkg:cause dbr:Inflammation )\n- TRUE ( dbr:ViralRespiratoryDisease hkg:cause dbr:ImmuneResponse ) \n- FALSE ( dbr:COVID-19 hkg:treatment dbr:Asthma ) \n- UNRELATED ( dbr:COVID-19 hkg:medication dbr:Substances ) \n"}}

@@ -1,0 +1,1 @@
+{"doc_id": "3223", "passages": {"rdf_passage_1": "TRUE ( dbr:Obesity hkg:risk dbr:COVID-19 )\nTRUE ( dbr:Obesity hkg:cause dbr:AbdominalObesity )\nTRUE ( dbr:Obesity hkg:complication dbr:SleepApnea )\nTRUE ( dbr:Obesity hkg:symptom dbr:RaisedDiaphragm ) \nTRUE ( dbr:Obesity hkg:complication dbr:ReducedLungVentilation ) \n\n\n"}}

@@ -1,0 +1,1 @@
+{"doc_id": "2908", "passages": {"rdf_passage_1": "TRUE ( dbr:Cancer hkg:risk dbr:Low_cholesterol ) \nFALSE ( dbr:Cancer hkg:cause dbr:Low_cholesterol )\nTRUE ( dbr:Cholesterol hkg:risk dbr:Cancer ) \nFALSE ( dbr:Cholesterol hkg:treatment dbr:Cancer ) \nTRUE ( dbr:High_cholesterol hkg:complication dbr:Cancer ) \n\n\n"}}

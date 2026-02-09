@@ -1,0 +1,1 @@
+{"doc_id": "2713", "passages": {"rdf_passage_1": "TRUE ( dbr:Secondary_hypertension hkg:cause dbr:Other_disease )\nTRUE ( dbr:Secondary_hypertension hkg:diagnosis dbr:High_blood_pressure )\nTRUE ( dbr:High_blood_pressure hkg:risk dbr:Heart_attack )\nTRUE ( dbr:High_blood_pressure hkg:risk dbr:Stroke )\nTRUE ( dbr:High_blood_pressure hkg:symptom dbr:Medical_consultation )  \n"}}

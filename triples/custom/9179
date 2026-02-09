@@ -1,0 +1,1 @@
+{"doc_id": "9179", "passages": {"rdf_passage_1": "FALSE ( dbr:AnaphylacticShock hkg:cause dbr:PfizerVaccine ) \nTRUE ( dbr:AnaphylacticShock hkg:symptom dbr:PfizerVaccine )\n\n\n"}}

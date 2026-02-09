@@ -1,0 +1,1 @@
+{"doc_id": "7172", "passages": {"rdf_passage_1": "TRUE ( dbr:COVID-19 hkg:risk dbr:COPD )\nTRUE ( dbr:COVID-19 hkg:risk dbr:Emphysema )\nTRUE ( dbr:AllergicAsthma hkg:diagnosis dbr:Asthma )\nTRUE ( dbr:SARS_CoV_2 hkg:cause dbr:COVID-19 )\nTRUE ( dbr:Interleukin-13 hkg:treatment dbr:COVID-19 ) \n\n\n"}}

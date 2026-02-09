@@ -1,0 +1,1 @@
+{"doc_id": "2071", "passages": {"rdf_passage_1": "TRUE ( dbr:Diabetes hkg:cause dbr:Type2Diabetes )\nTRUE ( dbr:Diabetes hkg:complication dbr:InsulinResistance )\nTRUE ( dbr:HeartAttack hkg:risk dbr:HighCholesterol )\nFALSE ( dbr:Cholesterol hkg:complication dbr:HeartAttack ) \nFALSE ( dbr:Statins hkg:prevention dbr:Diabetes ) \n\n\n"}}

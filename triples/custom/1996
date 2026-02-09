@@ -1,0 +1,1 @@
+{"doc_id": "1996", "passages": {"rdf_passage_1": "TRUE ( dbr:Pertussis hkg:diagnosis \"whooping cough\" )\nTRUE ( dbr:Pertussis hkg:complication dbr:Pneumonia )\nTRUE ( dbr:Pertussis hkg:complication dbr:Myocarditis )\nTRUE ( dbr:Pertussis hkg:complication dbr:RibFracture )\nTRUE ( dbr:Pertussis hkg:prevention dbr:Vaccination ) \n\n\n"}}

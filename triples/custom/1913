@@ -1,0 +1,1 @@
+{"doc_id": "1913", "passages": {"rdf_passage_1": "TRUE ( dbr:COVID-19 hkg:symptom dbr:Rash )\nTRUE ( dbr:COVID-19 hkg:symptom dbr:Cough )\nTRUE ( dbr:COVID-19 hkg:symptom dbr:Diarrhea )\nTRUE ( dbr:COVID-19 hkg:symptom dbr:Chills )\nTRUE ( dbr:COVID-19 hkg:prevention dbr:Vaccine ) \nTRUE ( dbr:AEFI hkg:cause dbr:Vaccine ) \n\n\n"}}

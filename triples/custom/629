@@ -1,0 +1,1 @@
+{"doc_id": "629", "passages": {"rdf_passage_1": "TRUE ( dbr:Cardiovascular_disease hkg:diagnosis dbr:Cardiovascular_disease )\nTRUE ( dbr:Cardiovascular_disease hkg:complication dbr:Vascular_calcification )\nTRUE ( dbr:Cardiovascular_disease hkg:treatment dbr:Statin ) \nFALSE ( dbr:Cardiovascular_disease hkg:prevention dbr:Statin ) \n\n\n"}}

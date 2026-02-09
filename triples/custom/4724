@@ -1,0 +1,1 @@
+{"doc_id": "4724", "passages": {"rdf_passage_1": "TRUE ( dbr:FordyceSpots hkg:cause dbr:HighCholesterol )\nTRUE ( dbr:HighCholesterol hkg:symptom dbr:Pimple ) \nTRUE ( dbr:FordyceSpots hkg:symptom dbr:Pimple )\nTRUE (  dbr:PhysicalExercise hkg:prevention dbr:HighCholesterol ) \n"}}

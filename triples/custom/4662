@@ -1,0 +1,1 @@
+{"doc_id": "4662", "passages": {"rdf_passage_1": "TRUE ( dbr:Atherosclerosis hkg:treatment dbr:Chelation ) \nTRUE ( dbr:Atherosclerosis hkg:medication EDTA ) \nFALSE ( dbr:Atherosclerosis hkg:complication dbr:EDTA ) \n"}}

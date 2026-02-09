@@ -1,0 +1,1 @@
+{"doc_id": "3066", "passages": {"rdf_passage_1": "```\nTRUE ( dbr:Asthma hkg:symptom dbr:Wheezing )\nTRUE ( dbr:Asthma hkg:symptom dbr:Shortness_of_breath )\nTRUE ( dbr:Asthma hkg:symptom dbr:Chest_tightness )\nTRUE ( dbr:Asthma hkg:symptom dbr:Cough )\nTRUE ( dbr:Asthma hkg:cause dbr:Genetic_factors ) \nTRUE ( dbr:Asthma hkg:cause dbr:Environmental_factors )\n```"}}

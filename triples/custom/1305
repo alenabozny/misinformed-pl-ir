@@ -1,0 +1,1 @@
+{"doc_id": "1305", "passages": {"rdf_passage_1": "TRUE ( dbr:Atherosclerosis hkg:cause dbr:Hardening_of_the_arteries ) \nFALSE ( dbr:Atherosclerosis hkg:treatment dbr:Calcium ) \nTRUE ( dbr:High_cholesterol hkg:risk dbr:Atherosclerosis ) \n"}}

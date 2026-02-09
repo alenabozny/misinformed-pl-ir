@@ -1,0 +1,1 @@
+{"doc_id": "6149", "passages": {"rdf_passage_1": "FALSE ( dbr:HeartDisease hkg:treatment dbr:Alcohol )\nTRUE ( dbr:HighBloodPressure hkg:complication dbr:HeartDisease ) \nFALSE ( dbr:HeartDisease hkg:cause dbr:Alcohol ) \nTRUE ( dbr:SedentaryLifestyle hkg:risk dbr:HeartDisease )  \n"}}

@@ -1,0 +1,1 @@
+{"doc_id": "460", "passages": {"rdf_passage_1": "TRUE ( dbr:Asthma hkg:cause dbr:CigaretteSmoke )\nTRUE ( dbr:Asthma hkg:cause dbr:AirPollution )\nTRUE ( dbr:Asthma hkg:diagnosis dbr:RespiratoryDisease ) \nTRUE ( dbr:Asthma hkg:treatment dbr:Medication ) \n"}}

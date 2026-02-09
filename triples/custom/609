@@ -1,0 +1,1 @@
+{"doc_id": "609", "passages": {"rdf_passage_1": "TRUE ( dbr:Heart_failure hkg:cause dbr:Statin_use )\nTRUE ( dbr:Statin_use hkg:risk dbr:Low_Coenzyme_Q10 )\nTRUE ( dbr:Low_Coenzyme_Q10 hkg:symptom dbr:Fatigue )\nTRUE ( dbr:Low_Coenzyme_Q10 hkg:symptom dbr:Muscle_pain )\nTRUE ( dbr:Low_Coenzyme_Q10 hkg:symptom dbr:Weakness ) \n\n\n"}}

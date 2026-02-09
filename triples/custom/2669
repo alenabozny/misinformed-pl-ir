@@ -1,0 +1,1 @@
+{"doc_id": "2669", "passages": {"rdf_passage_1": "TRUE ( dbr:Hypertension hkg:diagnosis dbr:ArterialHypertension )\nTRUE ( dbr:Diabetes hkg:risk dbr:Hypertension )\nTRUE ( dbr:Hypertension hkg:cause dbr:HighSaltIntake ) \n"}}

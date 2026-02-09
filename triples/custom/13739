@@ -1,0 +1,1 @@
+{"doc_id": "13739", "passages": {"rdf_passage_1": "TRUE ( dbr:Autism hkg:cause dbr:Vaccine ) \nFALSE ( dbr:Autism hkg:cause dbr:Mercury ) \nTRUE ( dbr:AutoimmuneDisease hkg:complication dbr:Vaccine )\nTRUE ( dbr:DiabetesType1 hkg:complication dbr:Vaccine ) \n"}}

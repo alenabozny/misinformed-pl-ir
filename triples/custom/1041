@@ -1,0 +1,1 @@
+{"doc_id": "1041", "passages": {"rdf_passage_1": "TRUE ( dbr:High_cholesterol hkg:complication dbr:Peripheral_arterial_disease )\nTRUE ( dbr:High_cholesterol hkg:risk dbr:Skin_changes_on_legs )\nTRUE ( dbr:Peripheral_arterial_disease hkg:symptom dbr:Skin_changes_on_legs ) \n\n\n"}}

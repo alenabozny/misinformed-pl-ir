@@ -1,0 +1,1 @@
+{"doc_id": "10163", "passages": {"rdf_passage_1": "FALSE ( dbr:High_cholesterol hkg:treatment drug ) \nTRUE ( dbr:High_cholesterol hkg:complication circulatory_incident ) \nTRUE ( dbr:High_cholesterol hkg:symptom blindness ) \n\n\n\n"}}

@@ -1,0 +1,1 @@
+{"doc_id": "5650", "passages": {"rdf_passage_1": "TRUE ( dbr:Hypertension hkg:cause dbr:Menopause ) \nTRUE ( dbr:Hypertension hkg:risk dbr:Age )\nFALSE ( dbr:Hypertension hkg:treatment dbr:Medication ) \n"}}

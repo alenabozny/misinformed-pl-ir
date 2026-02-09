@@ -1,0 +1,1 @@
+{"doc_id": "2959", "passages": {"rdf_passage_1": "TRUE ( dbr:Type_2_diabetes hkg:cause dbr:Statin )\nTRUE ( dbr:Memory_impairment hkg:symptom dbr:Statin )\nTRUE ( dbr:Muscle_damage hkg:complication dbr:Statin ) \n"}}

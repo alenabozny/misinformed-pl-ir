@@ -1,0 +1,1 @@
+{"doc_id": "2769", "passages": {"rdf_passage_1": "TRUE ( dbr:Myopathy hkg:cause dbr:Statin )\nTRUE ( dbr:Rhabdomyolysis hkg:complication dbr:Myopathy )\nTRUE ( dbr:Muscle_pain hkg:symptom dbr:Myopathy ) \nTRUE ( dbr:Creatine_kinase hkg:cause dbr:Muscle_damage )\nTRUE ( dbr:Muscle_weakness hkg:symptom dbr:Myopathy )\n\n\n"}}

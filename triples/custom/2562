@@ -1,0 +1,1 @@
+{"doc_id": "2562", "passages": {"rdf_passage_1": "TRUE ( dbr:Atherosclerosis hkg:cause dbr:HighFatDiet )\nFALSE ( dbr:Atherosclerosis hkg:cause dbr:PentoseCycle )\nTRUE ( dbr:Diabetes hkg:cause dbr:Sugar )\nTRUE ( dbr:Obesity hkg:cause dbr:Sugar )\nTRUE ( dbr:Diabetes hkg:cause dbr:Sugar )\nFALSE ( dbr:Atherosclerosis hkg:treatment dbr:Sugar ) \n"}}

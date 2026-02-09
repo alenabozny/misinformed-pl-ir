@@ -1,0 +1,1 @@
+{"doc_id": "10006", "passages": {"rdf_passage_1": "TRUE ( dbr:High_cholesterol hkg:treatment dbr:Statin )\nTRUE ( dbr:High_cholesterol hkg:complication dbr:Digestive_problem )\nTRUE ( dbr:High_cholesterol hkg:complication dbr:Liver_damage ) \nTRUE ( dbr:High_cholesterol hkg:complication dbr:Muscle_pain ) \nTRUE ( dbr:High_cholesterol hkg:complication dbr:Hyperglycemia ) \n\n\n"}}

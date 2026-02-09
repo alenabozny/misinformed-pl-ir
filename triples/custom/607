@@ -1,0 +1,1 @@
+{"doc_id": "607", "passages": {"rdf_passage_1": "FALSE ( dbr:Statins hkg:cause dbr:AlzheimerDisease ) \nTRUE ( dbr:Statins hkg:medication dbr:CholesterolLoweringMedication ) \nFALSE ( dbr:Cholesterol hkg:complication dbr:Statins ) \nTRUE ( dbr:Cholesterol hkg:cause dbr:MemoryImpairment ) \n\n\n"}}

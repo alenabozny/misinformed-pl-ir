@@ -1,0 +1,1 @@
+{"doc_id": "735", "passages": {"rdf_passage_1": "TRUE ( dbr:Ischemic_heart_disease hkg:cause dbr:Atherosclerosis )\nTRUE ( dbr:Ischemic_heart_disease hkg:complication dbr:Cardiovascular_disease )\nTRUE ( dbr:Atherosclerosis hkg:risk dbr:LDL_cholesterol )\nTRUE ( dbr:Ischemic_heart_disease hkg:treatment dbr:Evolocumab ) \n\n\n"}}

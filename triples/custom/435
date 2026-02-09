@@ -1,0 +1,1 @@
+{"doc_id": "435", "passages": {"rdf_passage_1": "TRUE ( dbr:COVID-19 hkg:symptom dbr:Shortness_of_breath )\nTRUE ( dbr:COVID-19 hkg:symptom dbr:Fever )\nFALSE ( dbr:COVID-19 hkg:treatment dbr:Bronchodilator )\nFALSE ( dbr:Asthma hkg:symptom dbr:Fever ) \n\n\n"}}

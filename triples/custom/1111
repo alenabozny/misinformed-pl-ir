@@ -1,0 +1,1 @@
+{"doc_id": "1111", "passages": {"rdf_passage_1": "TRUE ( dbr:Cholesterol hkg:treatment artichoke )\nTRUE ( dbr:Triglycerides hkg:treatment artichoke )\nTRUE ( dbr:Cholesterol hkg:risk redRice )\nTRUE ( dbr:Triglycerides hkg:risk redRice ) \nTRUE ( dbr:Cholesterol hkg:medication DuoLifeProCholterol )\nTRUE ( dbr:Triglycerides hkg:medication DuoLifeProCholterol ) \n\n\n"}}

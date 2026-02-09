@@ -1,0 +1,1 @@
+{"doc_id": "10083", "passages": {"rdf_passage_1": "TRUE ( dbr:High_cholesterol hkg:cause dbr:Myopathy )\nTRUE ( dbr:High_cholesterol hkg:cause dbr:Diabetes ) \nFALSE ( dbr:High_cholesterol hkg:symptom dbr:Myopathy )\nFALSE ( dbr:High_cholesterol hkg:symptom dbr:Diabetes ) \nTRUE ( dbr:Statin hkg:treatment dbr:High_cholesterol ) \n\n\n"}}

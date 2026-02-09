@@ -1,0 +1,1 @@
+{"doc_id": "11520", "passages": {"rdf_passage_1": "FALSE ( dbr:COVID-19 hkg:prevention dbr:MouthRinsing )\nFALSE ( dbr:COVID-19 hkg:prevention dbr:ThroatRinsing )\nTRUE ( dbr:COVID-19 hkg:risk dbr:Alcohol ) \nFALSE ( dbr:COVID-19 hkg:cause dbr:Alcohol ) \n"}}

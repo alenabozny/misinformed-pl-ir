@@ -1,0 +1,1 @@
+{"doc_id": "12880", "passages": {"rdf_passage_1": "FALSE ( dbr:FattyLiverDisease hkg:cause dbr:RedWine )\nTRUE ( dbr:Stroke hkg:risk dbr:RedWine )\nTRUE ( dbr:Cirrhosis hkg:complication dbr:FattyLiverDisease ) \n"}}

@@ -1,0 +1,1 @@
+{"doc_id": "4533", "passages": {"rdf_passage_1": "TRUE ( dbr:Brain_stem_death hkg:cause dbr:COVID-19 )\nTRUE ( dbr:COVID-19 hkg:prevention dbr:Pfizer-BioNTech_COVID-19_vaccine ) \nTRUE ( dbr:Brain_stem_death hkg:complication dbr:Pfizer-BioNTech_COVID-19_vaccine ) \n\n\n"}}

@@ -1,0 +1,1 @@
+{"doc_id": "4568", "passages": {"rdf_passage_1": "TRUE ( dbr:COVID-19 hkg:risk dbr:HeartCondition )\nTRUE ( dbr:COVID-19 hkg:complication dbr:RespiratoryInfection )\nTRUE ( dbr:COVID-19 hkg:complication dbr:Mortality )\nTRUE ( dbr:Statin hkg:treatment dbr:HighCholesterol ) \n"}}

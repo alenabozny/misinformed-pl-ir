@@ -1,0 +1,1 @@
+{"doc_id": "1268", "passages": {"rdf_passage_1": "TRUE ( dbr:Atherosclerosis hkg:complication dbr:High_cholesterol ) \nTRUE ( dbr:High_cholesterol hkg:cause dbr:Atherosclerosis )\nTRUE ( dbr:High_cholesterol hkg:risk dbr:Calcium_plaque )\n\n\n"}}

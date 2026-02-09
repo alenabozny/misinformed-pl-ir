@@ -1,0 +1,1 @@
+{"doc_id": "418", "passages": {"rdf_passage_1": "FALSE ( dbr:COVID-19 hkg:treatment dbr:Vitamin_D )\nTRUE ( dbr:COVID-19 hkg:risk dbr:Low_vitamin_D )\nFALSE ( dbr:COVID-19 hkg:prevention dbr:Vitamin_D ) \n"}}

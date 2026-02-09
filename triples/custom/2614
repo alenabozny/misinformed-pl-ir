@@ -1,0 +1,1 @@
+{"doc_id": "2614", "passages": {"rdf_passage_1": "TRUE ( dbr:High_blood_pressure hkg:treatment dbr:Shepherd%27s_purse )\nTRUE ( dbr:Low_blood_pressure hkg:treatment dbr:Shepherd%27s_purse )\nTRUE ( dbr:High_blood_pressure hkg:symptom dbr:Symptoms_of_blood_pressure_regulation ) \nTRUE ( dbr:Low_blood_pressure hkg:symptom dbr:Symptoms_of_blood_pressure_regulation ) \n\n\n"}}

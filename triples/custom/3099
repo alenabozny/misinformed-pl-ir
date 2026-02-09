@@ -1,0 +1,1 @@
+{"doc_id": "3099", "passages": {"rdf_passage_1": "TRUE ( dbr:Asthma hkg:symptom dbr:Wheezing ) \nTRUE ( dbr:Asthma hkg:diagnosis dbr:Wheezing ) \nTRUE ( dbr:Asthma hkg:diagnosis dbr:Spirometry ) \n\n\n"}}

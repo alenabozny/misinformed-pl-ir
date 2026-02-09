@@ -1,0 +1,7 @@
+*.tar.xz
+*.zip
+
+data
+run-summaries/recall/
+trec-misinfo-resources/Compatibility
+trec-misinfo-resources/Trec_eval_extension

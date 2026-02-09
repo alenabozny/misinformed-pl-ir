@@ -1,0 +1,1 @@
+{"doc_id": "1022", "passages": {"rdf_passage_1": "TRUE ( dbr:High_cholesterol hkg:risk dbr:Genetics )\nFALSE ( dbr:High_cholesterol hkg:complication dbr:Heart_disease ) \nUNRELATED ( dbr:High_cholesterol hkg:treatment dbr:Diet ) \n\n\n"}}

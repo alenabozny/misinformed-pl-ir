@@ -1,0 +1,1 @@
+{"doc_id": "6288", "passages": {"rdf_passage_1": "TRUE ( dbr:Atherosclerosis hkg:treatment dbr:Percutaneous_transluminal_coronary_angioplasty )\nTRUE ( dbr:Atherosclerosis hkg:treatment dbr:Vascular_stent )\nTRUE ( dbr:Atherosclerosis hkg:complication dbr:Restenosis )\nTRUE ( dbr:Atherosclerosis hkg:cause dbr:Cholesterol ) \n"}}

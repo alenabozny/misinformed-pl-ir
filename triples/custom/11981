@@ -1,0 +1,1 @@
+{"doc_id": "11981", "passages": {"rdf_passage_1": "TRUE ( dbr:COVID-19 hkg:complication dbr:Bacterial_infection )\nTRUE ( dbr:COVID-19 hkg:cause dbr:Haemophilus_influenzae )\nTRUE ( dbr:COVID-19 hkg:cause dbr:Staphylococcus_aureus )\nTRUE ( dbr:COVID-19 hkg:cause dbr:Streptococcus_pneumoniae ) \nTRUE ( dbr:COVID-19 hkg:risk dbr:Mortality ) \n\n\n"}}

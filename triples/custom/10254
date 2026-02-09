@@ -1,0 +1,1 @@
+{"doc_id": "10254", "passages": {"rdf_passage_1": "TRUE ( dbr:Lyme_disease hkg:cause dbr:Tick ) \nTRUE ( dbr:Lyme_disease hkg:diagnosis dbr:Lyme_disease ) \nTRUE ( dbr:Lyme_disease hkg:symptom dbr:Borrelia ) \n\n\n"}}

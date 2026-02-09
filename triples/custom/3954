@@ -1,0 +1,1 @@
+{"doc_id": "3954", "passages": {"rdf_passage_1": "TRUE ( dbr:HeartAttack hkg:prevention dbr:EthylAlcohol )\nTRUE ( dbr:HeartAttack hkg:complication dbr:Stroke )\nTRUE ( dbr:CardiovascularDisease hkg:cause dbr:HeartAttack ) \n"}}

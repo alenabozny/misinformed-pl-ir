@@ -1,0 +1,1 @@
+{"doc_id": "12005", "passages": {"rdf_passage_1": "TRUE ( dbr:SalicylateAsthma hkg:cause dbr:Polyester )\nTRUE ( dbr:SalicylateAsthma hkg:cause dbr:PolyhydroxyAcid )\nTRUE ( dbr:SalicylateAsthma hkg:symptom dbr:Poisoning )\nTRUE ( dbr:SalicylateAsthma hkg:treatment dbr:Aspirin ) \n"}}

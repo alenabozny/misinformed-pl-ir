@@ -1,0 +1,1 @@
+{"doc_id": "4168", "passages": {"rdf_passage_1": "TRUE ( dbr:Alcoholism hkg:cause dbr:NeurotransmitterDysfunction )\nTRUE ( dbr:Alcoholism hkg:symptom dbr:SpeechImpairment )\nTRUE ( dbr:Alcoholism hkg:symptom dbr:LossOfMotorCoordination )\nTRUE ( dbr:Alcoholism hkg:risk dbr:Aggression ) \n\n\n"}}

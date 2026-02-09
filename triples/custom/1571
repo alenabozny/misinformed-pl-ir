@@ -1,0 +1,1 @@
+{"doc_id": "1571", "passages": {"rdf_passage_1": "```\nTRUE ( dbr:Coronavirus hkg:cause dbr:Bat )\nTRUE ( dbr:Coronavirus hkg:cause dbr:Cat )\nTRUE ( dbr:Coronavirus hkg:cause dbr:Rabbit )\nTRUE ( dbr:Coronavirus hkg:cause dbr:Animal )\n```"}}

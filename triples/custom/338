@@ -1,0 +1,1 @@
+{"doc_id": "338", "passages": {"rdf_passage_1": "TRUE ( dbr:Skin_cancer hkg:cause dbr:Ultraviolet_radiation )\nTRUE ( dbr:Skin_cancer hkg:diagnosis dbr:Basal_cell_carcinoma )\nTRUE ( dbr:Skin_cancer hkg:diagnosis dbr:Squamous_cell_carcinoma )\nTRUE ( dbr:Skin_cancer hkg:diagnosis dbr:Melanoma ) \n\n\n"}}

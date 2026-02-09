@@ -1,0 +1,1 @@
+{"doc_id": "1270", "passages": {"rdf_passage_1": "TRUE ( dbr:Depression hkg:symptom dbr:Statin )\nTRUE ( dbr:Sleep_disorder hkg:symptom dbr:Statin )\nTRUE ( dbr:Memory_loss hkg:symptom dbr:Statin )\nTRUE ( dbr:Mental_health_disorder hkg:symptom dbr:Statin )\nTRUE ( dbr:Mood_swings hkg:symptom dbr:Statin ) \nTRUE ( dbr:Cholesterol hkg:cause dbr:Cardiovascular_disease ) \n\n\n"}}

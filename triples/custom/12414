@@ -1,0 +1,1 @@
+{"doc_id": "12414", "passages": {"rdf_passage_1": "FALSE ( dbr:COVID-19 hkg:treatment  \"mass testing\" )\nFALSE ( dbr:COVID-19 hkg:medication  \"curfews\" )\nFALSE ( dbr:COVID-19 hkg:prevention  \"school closures\" ) \nTRUE ( dbr:COVID-19 hkg:symptom  \"asymptomatic\" ) \nFALSE ( dbr:COVID-19 hkg:complication  \"high-risk groups\" ) \n\n\n"}}

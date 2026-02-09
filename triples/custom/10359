@@ -1,0 +1,1 @@
+{"doc_id": "10359", "passages": {"rdf_passage_1": "TRUE ( dbr:Ozone_poisoning hkg:symptom dbr:Scratchy_throat )\nTRUE ( dbr:Ozone_poisoning hkg:symptom dbr:Cough )\nTRUE ( dbr:Ozone_poisoning hkg:symptom dbr:Headache )\nTRUE ( dbr:Ozone_poisoning hkg:symptom dbr:Drowsiness )\nTRUE ( dbr:Ozone_poisoning hkg:complication dbr:Pulmonary_edema ) \n \n"}}

@@ -1,0 +1,1 @@
+{"doc_id": "3958", "passages": {"rdf_passage_1": "TRUE ( dbr:Myocarditis hkg:complication dbr:COVID-19Vaccination )\nTRUE ( dbr:Pericarditis hkg:complication dbr:COVID-19Vaccination ) \nTRUE ( dbr:COVID-19Vaccination hkg:medication dbr:Moderna ) \nTRUE ( dbr:COVID-19Vaccination hkg:medication dbr:PfizerBioNTech )\n\n\n"}}

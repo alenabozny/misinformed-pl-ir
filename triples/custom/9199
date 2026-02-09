@@ -1,0 +1,1 @@
+{"doc_id": "9199", "passages": {"rdf_passage_1": "FALSE ( dbr:COVID-19 hkg:diagnosis dbr:PCR_test ) \nTRUE ( dbr:COVID-19 hkg:symptom dbr:cold ) \nTRUE ( dbr:COVID-19 hkg:symptom dbr:flu ) \nTRUE ( dbr:COVID-19 hkg:symptom dbr:herpes ) \n\n\n"}}

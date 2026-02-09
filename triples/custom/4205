@@ -1,0 +1,1 @@
+{"doc_id": "4205", "passages": {"rdf_passage_1": "FALSE ( dbr:COVID-19 hkg:cause dbr:Alcohol )\nTRUE ( dbr:COVID-19 hkg:symptom dbr:Tachycardia )\nTRUE ( dbr:COVID-19 hkg:symptom dbr:Weakness )\nTRUE ( dbr:Alcohol hkg:risk dbr:Pancreatitis ) \n"}}

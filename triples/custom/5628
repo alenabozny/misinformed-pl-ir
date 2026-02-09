@@ -1,0 +1,1 @@
+{"doc_id": "5628", "passages": {"rdf_passage_1": "TRUE ( dbr:High_blood_pressure hkg:cause dbr:Alcohol )\nTRUE ( dbr:High_blood_pressure hkg:symptom dbr:Increased_blood_pressure ) \nFALSE ( dbr:High_blood_pressure hkg:treatment dbr:Alcohol ) \n\n\n"}}

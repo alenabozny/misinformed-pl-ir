@@ -1,0 +1,1 @@
+{"doc_id": "10014", "passages": {"rdf_passage_1": "TRUE ( dbr:Atherosclerosis hkg:cause dbr:Smoking )\nTRUE ( dbr:Atherosclerosis hkg:complication dbr:Clogged arteries )\nTRUE ( dbr:High cholesterol hkg:risk dbr:Atherosclerosis ) \nTRUE ( dbr:Smoking hkg:risk dbr:High cholesterol )\n\n\n"}}

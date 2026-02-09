@@ -1,0 +1,1 @@
+{"doc_id": "2752", "passages": {"rdf_passage_1": "TRUE ( dbr:Hypercholesterolemia hkg:diagnosis dbr:High_cholesterol ) \nTRUE ( dbr:Hypercholesterolemia hkg:cause dbr:Elevated_cholesterol ) \nFALSE ( dbr:Hypercholesterolemia hkg:symptom dbr:Ailment ) \n\n\n"}}

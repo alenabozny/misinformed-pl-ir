@@ -1,0 +1,1 @@
+{"doc_id": "6810", "passages": {"rdf_passage_1": "FALSE ( dbr:Atherosclerosis hkg:cause dbr:Obesity )\nFALSE ( dbr:Atherosclerosis hkg:treatment dbr:Statin )\nTRUE ( dbr:Dyslipidemia hkg:cause dbr:Atherosclerosis ) \nFALSE ( dbr:Stroke hkg:symptom dbr:HighBloodPressure ) \n\n\n"}}

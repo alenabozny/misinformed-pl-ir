@@ -1,0 +1,1 @@
+{"doc_id": "9941", "passages": {"rdf_passage_1": "TRUE ( dbr:Type_2_diabetes hkg:risk dbr:Cholesterol ) \nTRUE ( dbr:Myopathy hkg:symptom dbr:Cholesterol_lowering_medication ) \nTRUE ( dbr:Weakness hkg:symptom dbr:Cholesterol_lowering_medication ) \n\n\n"}}

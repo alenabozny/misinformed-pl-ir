@@ -1,0 +1,1 @@
+{"doc_id": "7217", "passages": {"rdf_passage_1": "TRUE ( dbr:COVID-19 hkg:complication dbr:Lung_damage )\nTRUE ( dbr:COVID-19 hkg:complication dbr:Organ_failure )\nTRUE ( dbr:COVID-19 hkg:cause dbr:Systemic_inflammatory_response )\nTRUE ( dbr:COVID-19 hkg:treatment dbr:Steroid_medications ) \n\n\n"}}

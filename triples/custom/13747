@@ -1,0 +1,1 @@
+{"doc_id": "13747", "passages": {"rdf_passage_1": "TRUE ( dbr:Smallpox hkg:prevention dbr:Vaccination ) \nTRUE ( dbr:Smallpox hkg:cause dbr:Epidemic ) \nFALSE ( dbr:Smallpox hkg:cause dbr:SV40_virus ) \n\n\n"}}

@@ -1,0 +1,1 @@
+{"doc_id": "569", "passages": {"rdf_passage_1": "TRUE ( dbr:Statin-induced_myopathy hkg:cause dbr:Vitamin_D_deficiency )\nTRUE ( dbr:Statin-induced_myopathy hkg:cause dbr:Coenzyme_Q10_deficiency )\nTRUE ( dbr:Statin-induced_myopathy hkg:complication dbr:Muscle_atrophy )\nTRUE ( dbr:Vitamin_D_deficiency hkg:cause dbr:Depression ) \n\n\n"}}

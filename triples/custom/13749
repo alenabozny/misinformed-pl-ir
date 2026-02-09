@@ -1,0 +1,1 @@
+{"doc_id": "13749", "passages": {"rdf_passage_1": "FALSE ( dbr:WhoopingCough hkg:treatment dbr:MMR_vaccine )\nTRUE ( dbr:Tuberculosis hkg:prevention dbr:Vaccination )\nFALSE ( dbr:Tuberculosis hkg:complication dbr:Vaccination ) \n\n\n"}}

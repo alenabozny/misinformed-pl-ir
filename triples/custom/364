@@ -1,0 +1,1 @@
+{"doc_id": "364", "passages": {"rdf_passage_1": "TRUE ( dbr:Influenza hkg:cause dbr:Influenza_viruses )\nTRUE ( dbr:Influenza hkg:symptom dbr:Acute_respiratory_infection )\nTRUE ( dbr:Influenza hkg:transmissionMethod dbr:Droplet_infection )\nTRUE ( dbr:Influenza hkg:transmissionMethod dbr:Contact_transmission ) \n"}}

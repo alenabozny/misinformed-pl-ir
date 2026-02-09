@@ -1,0 +1,1 @@
+{"doc_id": "4070", "passages": {"rdf_passage_1": "TRUE ( dbr:COVID-19 hkg:treatment dbr:Comirnaty )\nTRUE ( dbr:COVID-19 hkg:treatment dbr:Spikevax )\nTRUE ( dbr:Myocarditis hkg:complication dbr:COVID-19_vaccine )\nTRUE ( dbr:Pericarditis hkg:complication dbr:COVID-19_vaccine ) \nTRUE ( dbr:Myocarditis hkg:risk dbr:Male )\nTRUE ( dbr:Pericarditis hkg:risk dbr:Male ) \n\n\n\n"}}

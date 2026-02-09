@@ -1,0 +1,1 @@
+{"doc_id": "2138", "passages": {"rdf_passage_1": "Here are the RDF triples generated from the text:\n\nTRUE ( dbr:Diabetes hkg:risk dbr:High_cholesterol_level ) \nFALSE ( dbr:Diabetes hkg:treatment dbr:Statin )\nTRUE ( dbr:Pregnancy hkg:complication dbr:Statin )\nFALSE ( dbr:Memory dbr:Statin hkg:risk ) \n"}}

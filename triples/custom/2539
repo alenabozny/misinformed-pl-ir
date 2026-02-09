@@ -1,0 +1,1 @@
+{"doc_id": "2539", "passages": {"rdf_passage_1": "TRUE ( dbr:Hyperinsulinemia hkg:cause dbr:Stress ) \nTRUE ( dbr:Hyperinsulinemia hkg:complication dbr:High_cholesterol )\nTRUE ( dbr:Insulin hkg:medication dbr:Adrenaline ) \n\n\n"}}

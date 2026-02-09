@@ -1,0 +1,1 @@
+{"doc_id": "1156", "passages": {"rdf_passage_1": "TRUE ( dbr:Coronary_heart_disease hkg:risk dbr:High_cholesterol )\nTRUE ( dbr:High_cholesterol hkg:cause dbr:Coronary_heart_disease )\nTRUE ( dbr:High_cholesterol hkg:cause dbr:Heart_attack )\nTRUE ( dbr:High_cholesterol hkg:cause dbr:Stroke )\nTRUE ( dbr:High_cholesterol hkg:diagnosis dbr:High_blood_lipid ) \n\n\n"}}

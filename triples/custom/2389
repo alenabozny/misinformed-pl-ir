@@ -1,0 +1,1 @@
+{"doc_id": "2389", "passages": {"rdf_passage_1": "FALSE ( dbr:CardiacProblems hkg:cause dbr:Cholesterol )\nTRUE ( dbr:CardiacProblems hkg:cause dbr:Calcium )\nFALSE ( dbr:CardiacProblems hkg:cause dbr:Magnesium )\nFALSE ( dbr:CardiacProblems hkg:cause dbr:VitaminD3 )\nFALSE ( dbr:CardiacProblems hkg:cause dbr:VitaminK2 )  \n"}}

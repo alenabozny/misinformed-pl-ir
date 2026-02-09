@@ -1,0 +1,1 @@
+{"doc_id": "689", "passages": {"rdf_passage_1": "TRUE ( dbr:Stroke hkg:complication dbr:Heart_attack )\nTRUE ( dbr:Heart_attack hkg:complication dbr:Death )\nTRUE ( dbr:Dementia hkg:diagnosis dbr:Statin_medication ) \nTRUE ( dbr:Dementia hkg:prevention dbr:Statin_medication )\nTRUE ( dbr:High_cholesterol hkg:treatment dbr:Statin_medication ) \n\n\n\n\n"}}

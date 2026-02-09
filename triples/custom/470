@@ -1,0 +1,1 @@
+{"doc_id": "470", "passages": {"rdf_passage_1": "TRUE ( dbr:Asthma hkg:complication dbr:Side_effect )\nTRUE ( dbr:Asthma hkg:cause dbr:Insufficient_medication_delivery ) \nTRUE ( dbr:Asthma hkg:treatment dbr:Inhaler ) \n\n\n"}}

@@ -1,0 +1,1 @@
+{"doc_id": "4227", "passages": {"rdf_passage_1": "TRUE ( dbr:Hyperglycemia hkg:risk dbr:Death )\nTRUE ( dbr:Hyperglycemia hkg:complication dbr:IntensiveCare ) \nTRUE ( dbr:Hyperglycemia hkg:complication dbr:Ventilator ) \n\n\n"}}

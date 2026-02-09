@@ -1,0 +1,1 @@
+{"doc_id": "2211", "passages": {"rdf_passage_1": "FALSE ( dbr:Low_cholesterol hkg:complication dbr:COVID-19 ) \nTRUE ( dbr:Low_cholesterol hkg:cause dbr:Mental_dullness ) \nTRUE ( dbr:Low_cholesterol hkg:cause dbr:Mental_performance_decline ) \nFALSE ( dbr:Low_cholesterol hkg:prevention dbr:Vitamin_D ) \nFALSE ( dbr:Low_cholesterol hkg:treatment dbr:Coenzyme_Q10 ) \n\n\n"}}

@@ -1,0 +1,1 @@
+{"doc_id": "642", "passages": {"rdf_passage_1": "TRUE ( dbr:Cholesterol hkg:cause dbr:Coenzyme_Q )\nTRUE ( dbr:Cholesterol hkg:cause dbr:Sex_hormones )\nTRUE ( dbr:Cholesterol hkg:cause dbr:Vitamin_D ) \nFALSE ( dbr:Cholesterol hkg:symptom dbr:Disease ) \nFALSE ( dbr:Cholesterol hkg:risk dbr:Disease ) \nFALSE ( dbr:Cholesterol hkg:diagnosis dbr:Disease )\n\n\n\n"}}

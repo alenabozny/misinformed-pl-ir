@@ -1,0 +1,1 @@
+{"doc_id": "11478", "passages": {"rdf_passage_1": "FALSE ( dbr:Asthma hkg:treatment dbr:Inhalations )\nFALSE ( dbr:Asthma hkg:treatment dbr:Amantadine ) \nTRUE ( dbr:Bronchial_tree_obstruction hkg:symptom dbr:Shortness_of_breath ) \n\n\n"}}

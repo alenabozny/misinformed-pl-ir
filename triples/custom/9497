@@ -1,0 +1,1 @@
+{"doc_id": "9497", "passages": {"rdf_passage_1": "TRUE ( dbr:Pulmonary_embolism hkg:cause dbr:Death )\nTRUE ( dbr:Heart_attack hkg:cause dbr:Death )\nTRUE ( dbr:Ventricular_fibrillation hkg:cause dbr:Death )\nTRUE ( dbr:Myocarditis hkg:complication dbr:Ventricular_fibrillation ) \n"}}

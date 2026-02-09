@@ -1,0 +1,1 @@
+{"doc_id": "1995", "passages": {"rdf_passage_1": "TRUE ( dbr:COVID-19 hkg:risk dbr:Newborn ) \nTRUE ( dbr:Pertussis hkg:cause dbr:Bordetella_pertussis )\nTRUE ( dbr:Pertussis hkg:symptom dbr:Apnea )\nTRUE ( dbr:Pertussis hkg:symptom dbr:Tachycardia )\nTRUE ( dbr:Pertussis hkg:symptom dbr:Cyanosis ) \n"}}

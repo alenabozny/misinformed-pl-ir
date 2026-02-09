@@ -1,0 +1,1 @@
+{"doc_id": "619", "passages": {"rdf_passage_1": "TRUE ( dbr:Fat_metabolism_disorder hkg:cause dbr:Muscle_weakness ) \nTRUE ( dbr:Fat_metabolism_disorder hkg:complication dbr:Exercise_intolerance )\nTRUE ( dbr:L_carnitine hkg:treatment dbr:Fat_metabolism_disorder ) \n\n\n"}}

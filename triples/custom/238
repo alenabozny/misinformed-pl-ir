@@ -1,0 +1,1 @@
+{"doc_id": "238", "passages": {"rdf_passage_1": "FALSE ( dbr:OriginalAntigenicSin hkg:treatment dbr:Thing )\nFALSE ( dbr:AntibodyDependentEnhancement hkg:medication dbr:Thing )\nTRUE ( dbr:AntibodyDependentEnhancement hkg:cause dbr:Virus ) \nFALSE ( dbr:AntibodyDependentEnhancement hkg:symptom dbr:Thing ) \n\n\n"}}

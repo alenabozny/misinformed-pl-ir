@@ -1,0 +1,1 @@
+{"doc_id": "3230", "passages": {"rdf_passage_1": "TRUE ( dbr:Obesity hkg:diagnosis dbr:Disease )\nTRUE ( dbr:Obesity hkg:risk dbr:SevereDiseaseProgression ) \nTRUE ( dbr:COVID19 hkg:complication dbr:Disease ) \n\n\n"}}

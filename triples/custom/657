@@ -1,0 +1,1 @@
+{"doc_id": "657", "passages": {"rdf_passage_1": "TRUE ( dbr:Breast_cancer hkg:risk dbr:Statins ) \nTRUE ( dbr:Invasive_ductal_carcinoma hkg:diagnosis dbr:Breast_cancer )\nTRUE ( dbr:Non-invasive_lobular_carcinoma hkg:diagnosis dbr:Breast_cancer ) \n\n\n"}}

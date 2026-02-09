@@ -1,0 +1,1 @@
+{"doc_id": "1038", "passages": {"rdf_passage_1": "TRUE (dbr:High_cholesterol hkg:cause dbr:Atherosclerosis)\nTRUE (dbr:Atherosclerosis hkg:cause dbr:Peripheral_arterial_disease)\nTRUE (dbr:Peripheral_arterial_disease hkg:symptom dbr:Leg_pain) \nTRUE (dbr:Peripheral_arterial_disease hkg:symptom dbr:Claudication) \n\n\n"}}

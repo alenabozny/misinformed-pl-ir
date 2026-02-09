@@ -1,0 +1,1 @@
+{"doc_id": "4589", "passages": {"rdf_passage_1": "TRUE ( dbr:Hypertension hkg:diagnosis dbr:Internist ) \nFALSE ( dbr:Strokes hkg:diagnosis dbr:Diabetologist ) \nTRUE ( dbr:CoronaryArteryDisease hkg:diagnosis dbr:Cardiologist ) \n\n\n"}}

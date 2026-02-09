@@ -1,0 +1,1 @@
+{"doc_id": "9912", "passages": {"rdf_passage_1": "TRUE ( dbr:DiseasesRelatedToCirculatorySystem hkg:risk dbr:HighCholesterol ) \nTRUE ( dbr:DiseasesRelatedToCirculatorySystem hkg:prevention dbr:Ezetimibe ) \nTRUE ( dbr:HighCholesterol hkg:treatment dbr:Ezetimibe ) \n\n\n"}}

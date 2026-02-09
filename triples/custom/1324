@@ -1,0 +1,1 @@
+{"doc_id": "1324", "passages": {"rdf_passage_1": "TRUE ( dbr:COPD hkg:treatment nicotine )\nTRUE ( dbr:COPD hkg:symptom loss_of_pulmonary_capacity )\nTRUE ( dbr:COPD hkg:diagnosis spirometry )\nTRUE ( dbr:COPD hkg:risk nicotine ) \n"}}

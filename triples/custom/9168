@@ -1,0 +1,1 @@
+{"doc_id": "9168", "passages": {"rdf_passage_1": "TRUE ( dbr:Myocarditis hkg:cause dbr:COVID-19 )\nTRUE ( dbr:Myocarditis hkg:diagnosis dbr:Inflammation ) \nFALSE ( dbr:Myocarditis hkg:treatment dbr:mRNA-based_COVID-19_vaccine )\nTRUE ( dbr:Myocarditis hkg:risk dbr:Age ) \n\n\n"}}

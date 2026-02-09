@@ -1,0 +1,1 @@
+{"doc_id": "9580", "passages": {"rdf_passage_1": "TRUE ( dbr:COVID-19 hkg:treatment amantadine )\nTRUE ( dbr:ParkinsonsDisease hkg:treatment amantadine ) \nFALSE ( dbr:COVID-19 hkg:complication amantadine )\nFALSE ( dbr:ParkinsonsDisease hkg:complication amantadine ) \n\n\n"}}

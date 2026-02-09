@@ -1,0 +1,1 @@
+{"doc_id": "5334", "passages": {"rdf_passage_1": "TRUE ( dbr:PepticUlcerDisease hkg:risk dbr:Aspirin )\nTRUE ( dbr:Asthma hkg:complication dbr:Aspirin )\nTRUE ( dbr:HeartDisease hkg:treatment dbr:BetaBlocker )\nTRUE ( dbr:HeartDisease hkg:treatment dbr:ACEInhibitor ) \nTRUE ( dbr:HeartDisease hkg:prevention dbr:ACEInhibitor ) \n\n\n"}}

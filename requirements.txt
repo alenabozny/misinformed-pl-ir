@@ -1,0 +1,16 @@
+faiss-cpu
+fasttext-langdetect
+fastwarc
+networkx
+nltk
+pandas
+pyserini
+rdflib
+retriv
+sparqlwrapper
+scikit-learn
+torch
+torchaudio
+torchvision
+tqdm
+transformers

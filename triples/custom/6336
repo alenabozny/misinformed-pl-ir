@@ -1,0 +1,1 @@
+{"doc_id": "6336", "passages": {"rdf_passage_1": "TRUE ( dbr:KidneyDisease hkg:complication dbr:EDTA )\nTRUE ( dbr:KidneyDisease hkg:cause dbr:EDTA ) \nTRUE ( dbr:EDTA hkg:treatment dbr:KidneyDisease ) \n\n\n"}}

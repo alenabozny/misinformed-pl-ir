@@ -1,0 +1,1 @@
+{"doc_id": "771", "passages": {"rdf_passage_1": "TRUE ( dbr:Thrombosis hkg:complication dbr:Vaccine )\nTRUE ( dbr:Thrombosis hkg:cause dbr:Blood ) \nTRUE ( dbr:Thrombosis hkg:treatment heparin ) \n\n\n"}}

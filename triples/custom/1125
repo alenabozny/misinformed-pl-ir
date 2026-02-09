@@ -1,0 +1,1 @@
+{"doc_id": "1125", "passages": {"rdf_passage_1": "TRUE ( dbr:Hypercholesterolemia hkg:cause dbr:Bad_habits )\nFALSE ( dbr:Hypercholesterolemia hkg:complication dbr:Statins )\nTRUE ( dbr:Hypercholesterolemia hkg:treatment dbr:Statins ) \nTRUE ( dbr:Hypercholesterolemia hkg:treatment dbr:Fibrates )\nTRUE ( dbr:Hypercholesterolemia hkg:treatment dbr:Ion_exchange_resins ) \n\n\n"}}

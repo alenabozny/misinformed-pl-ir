@@ -1,0 +1,1 @@
+{"doc_id": "5347", "passages": {"rdf_passage_1": "TRUE ( dbr:Heart_attack hkg:cause dbr:Atherosclerosis )\nTRUE ( dbr:Heart_attack hkg:complication dbr:High_blood_pressure )\nTRUE ( dbr:Nicotine_addiction hkg:risk dbr:Heart_attack )\nTRUE ( dbr:Nicotine_addiction hkg:cause dbr:Atherosclerosis ) \nTRUE ( dbr:Quitting_smoking hkg:prevention dbr:Heart_attack ) \n\n\n"}}

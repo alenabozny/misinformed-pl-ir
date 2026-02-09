@@ -1,0 +1,1 @@
+{"doc_id": "7062", "passages": {"rdf_passage_1": "FALSE ( dbr:Alcohol hkg:complication dbr:Vaccination )\nFALSE ( dbr:Alcohol hkg:treatment dbr:Disease )\nTRUE ( dbr:Fever hkg:symptom dbr:Vaccination ) \nTRUE ( dbr:Chills hkg:symptom dbr:Vaccination ) \nTRUE ( dbr:Fatigue hkg:symptom dbr:Vaccination ) \nTRUE ( dbr:Headache hkg:symptom dbr:Vaccination ) \n\n\n"}}

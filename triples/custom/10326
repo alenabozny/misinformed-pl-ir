@@ -1,0 +1,1 @@
+{"doc_id": "10326", "passages": {"rdf_passage_1": "TRUE ( dbr:Cancer hkg:treatment dbr:Therapy )\nTRUE ( dbr:Cancer hkg:complication dbr:KidneyFailure )\nTRUE ( dbr:Cancer hkg:complication dbr:LiverFailure ) \nFALSE ( dbr:Cancer hkg:cause dbr:Ginseng )\nFALSE ( dbr:Cancer hkg:cause dbr:St_Johns_Wort ) \n"}}

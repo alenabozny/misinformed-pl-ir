@@ -1,0 +1,1 @@
+{"doc_id": "2650", "passages": {"rdf_passage_1": "TRUE ( dbr:Circulatory_issues hkg:cause dbr:Unhealthy_diet )\nTRUE ( dbr:Circulatory_issues hkg:risk dbr:Night_shift )\nTRUE ( dbr:Heart_health hkg:symptom dbr:Circulatory_issues ) \n\n\n"}}

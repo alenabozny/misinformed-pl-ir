@@ -1,0 +1,1 @@
+{"doc_id": "10377", "passages": {"rdf_passage_1": "TRUE ( dbr:Cardiovascular_disease hkg:treatment dbr:Ozone_therapy ) \nFALSE ( dbr:Cardiovascular_disease hkg:cause dbr:Atherosclerosis ) \nTRUE ( dbr:Atherosclerosis hkg:cause dbr:High_cholesterol ) \n\n\n"}}

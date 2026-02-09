@@ -1,0 +1,1 @@
+{"doc_id": "2136", "passages": {"rdf_passage_1": "TRUE ( dbr:Alzheimer_disease hkg:prevention dbr:Zinc )\nTRUE ( dbr:Alzheimer_disease hkg:cause dbr:Amyloid_plaque )\nTRUE ( dbr:Alzheimer_disease hkg:symptom dbr:Memory_loss ) \nFALSE ( dbr:Alzheimer_disease hkg:treatment dbr:Statin ) \n\n\n\n"}}

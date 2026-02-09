@@ -1,0 +1,1 @@
+{"doc_id": "492", "passages": {"rdf_passage_1": "FALSE ( dbr:Asthma hkg:cause dbr:COVID-19 )\nTRUE ( dbr:COVID-19 hkg:symptom dbr:Respiratory_infection )\nTRUE ( dbr:Poorly_controlled_asthma hkg:risk dbr:COVID-19 ) \n"}}

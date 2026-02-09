@@ -1,0 +1,1 @@
+{"doc_id": "6292", "passages": {"rdf_passage_1": "TRUE ( dbr:Atherosclerosis hkg:cause dbr:High_cholesterol )\nTRUE ( dbr:High_cholesterol hkg:cause dbr:Heart_attack ) \nTRUE ( dbr:Saturated_fatty_acids hkg:risk dbr:Heart_attack ) \n\n\n"}}

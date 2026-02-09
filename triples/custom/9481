@@ -1,0 +1,1 @@
+{"doc_id": "9481", "passages": {"rdf_passage_1": "TRUE ( dbr:COVID-19 hkg:cause dbr:Hospitalization )\nTRUE ( dbr:COVID-19 hkg:cause dbr:Death )\nTRUE ( dbr:COVID-19 hkg:risk dbr:At-risk_group )\nTRUE ( dbr:Vaccine hkg:prevention dbr:COVID-19 ) \n\n\n"}}

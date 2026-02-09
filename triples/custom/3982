@@ -1,0 +1,1 @@
+{"doc_id": "3982", "passages": {"rdf_passage_1": "TRUE ( dbr:Heart_disease hkg:complication dbr:Sudden_cardiac_arrest )\nTRUE ( dbr:Heart_disease hkg:symptom dbr:Coughing_up_blood )\nTRUE ( dbr:Heart_disease hkg:symptom dbr:Pain )\nTRUE ( dbr:Pericarditis hkg:cause dbr:Inflammation ) \nTRUE ( dbr:Heart_muscle_failure hkg:cause dbr:Exertion ) \n\n\n"}}

@@ -1,0 +1,1 @@
+{"doc_id": "677", "passages": {"rdf_passage_1": "TRUE ( dbr:GeneticMutation hkg:cause dbr:Disease )\nTRUE ( dbr:UGT1A1Mutation hkg:cause dbr:DrugInducedLiverInjury ) \nfalse ( dbr:UGT1A1Mutation hkg:treatment dbr:Medication )\n\n\n"}}

@@ -1,0 +1,1 @@
+{"doc_id": "3918", "passages": {"rdf_passage_1": "FALSE ( dbr:Autoimmune_disease hkg:complication dbr:Vaccine )\nFALSE ( dbr:HIV hkg:complication dbr:Vaccine )\nTRUE ( dbr:HIV hkg:risk dbr:Weaker_immune_response ) \n"}}

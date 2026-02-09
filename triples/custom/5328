@@ -1,0 +1,1 @@
+{"doc_id": "5328", "passages": {"rdf_passage_1": "TRUE ( dbr:Heart_attack hkg:diagnosis dbr:Cardiac_muscle_damage ) \nTRUE ( dbr:Heart_attack hkg:complication dbr:Left_ventricular_systolic_dysfunction )\nTRUE ( dbr:Heart_attack hkg:symptom dbr:Chest_pain ) \n"}}

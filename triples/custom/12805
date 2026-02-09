@@ -1,0 +1,1 @@
+{"doc_id": "12805", "passages": {"rdf_passage_1": "TRUE ( dbr:Hypertension hkg:diagnosis dbr:Elevated_blood_pressure ) \nFALSE ( dbr:Hypertension hkg:cause dbr:Ginseng )\nFALSE ( dbr:Hypertension hkg:treatment dbr:Ginseng ) \n\n\n"}}

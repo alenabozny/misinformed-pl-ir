@@ -1,0 +1,1 @@
+{"doc_id": "473", "passages": {"rdf_passage_1": "TRUE ( dbr:Asthma hkg:diagnosis dbr:Poland )\nTRUE ( dbr:Asthma hkg:symptom dbr:WakingAtNight )\nTRUE ( dbr:Asthma hkg:symptom dbr:AsthmaSymptoms )\nTRUE ( dbr:Asthma hkg:treatment dbr:AerosolTherapy )\nTRUE ( dbr:Asthma hkg:complication dbr:SideEffects ) \n"}}

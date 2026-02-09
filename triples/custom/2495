@@ -1,0 +1,1 @@
+{"doc_id": "2495", "passages": {"rdf_passage_1": "TRUE ( dbr:Atherosclerosis hkg:cause dbr:Homocysteine ) \nTRUE ( dbr:Atherosclerosis hkg:complication dbr:Myocardial infarction )\nTRUE ( dbr:Atherosclerosis hkg:complication dbr:Stroke )\nTRUE ( dbr:Atherosclerosis hkg:complication dbr:Thrombotic changes )\nTRUE ( dbr:Homocysteine hkg:risk dbr:Atherosclerosis )\n\n\n"}}

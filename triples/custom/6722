@@ -1,0 +1,1 @@
+{"doc_id": "6722", "passages": {"rdf_passage_1": "Here are the RDF triples based on the provided text:\n\nTRUE ( dbr:High_cholesterol hkg:risk dbr:Disease )\nTRUE ( dbr:High_cholesterol hkg:cause dbr:Elevated_cholesterol ) \nTRUE ( dbr:Elevated_cholesterol hkg:treatment dbr:Cholesterol_lowering_diet ) \n\n\nLet me know if you have any other text you'd like me to analyze!\n"}}

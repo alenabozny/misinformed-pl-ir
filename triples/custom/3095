@@ -1,0 +1,1 @@
+{"doc_id": "3095", "passages": {"rdf_passage_1": "TRUE ( dbr:Asthma hkg:treatment dbr:Inhaled_steroids )\nTRUE ( dbr:Asthma hkg:complication dbr:Exacerbation )\nTRUE ( dbr:Asthma hkg:risk dbr:Withdrawal_from_medication ) \n"}}

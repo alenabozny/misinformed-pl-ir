@@ -1,0 +1,1 @@
+{"doc_id": "2999", "passages": {"rdf_passage_1": "TRUE ( dbr:Cardiotoxicity hkg:cause dbr:Statin ) \nTRUE ( dbr:Cardiotoxicity hkg:complication dbr:HeartDisease ) \nTRUE ( dbr:HeartDisease hkg:diagnosis dbr:Cardiologist ) \n\n\n"}}

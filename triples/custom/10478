@@ -1,0 +1,1 @@
+{"doc_id": "10478", "passages": {"rdf_passage_1": "TRUE ( dbr:Cancer hkg:treatment dbr:Amygdalin )\nTRUE ( dbr:Cancer hkg:diagnosis dbr:Amygdalin ) \nTRUE ( dbr:Nausea hkg:symptom dbr:Amygdalin )\nTRUE ( dbr:Vomiting hkg:symptom dbr:Amygdalin )\nTRUE ( dbr:Dizziness hkg:symptom dbr:Amygdalin ) \n\n\n"}}

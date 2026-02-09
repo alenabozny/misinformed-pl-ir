@@ -1,0 +1,1 @@
+{"doc_id": "88", "passages": {"rdf_passage_1": "TRUE ( dbr:HeartDisease hkg:cause dbr:Statins )\nTRUE ( dbr:Death hkg:complication dbr:HeartDisease ) \n"}}

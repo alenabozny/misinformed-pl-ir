@@ -1,0 +1,1 @@
+{"doc_id": "774", "passages": {"rdf_passage_1": "TRUE ( dbr:HeparinInducedThrombocytopenia hkg:cause dbr:PF4 ) \nTRUE ( dbr:HeparinInducedThrombocytopenia hkg:complication dbr:Thrombosis ) \nTRUE ( dbr:HeparinInducedThrombocytopenia hkg:treatment dbr:LowMolecularWeightHeparin )\n"}}

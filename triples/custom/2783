@@ -1,0 +1,1 @@
+{"doc_id": "2783", "passages": {"rdf_passage_1": "TRUE ( dbr:Statins hkg:treatment dbr:HeartDisease )\nTRUE ( dbr:SideEffects hkg:symptom dbr:Statins )\nTRUE ( dbr:Doctor hkg:treatment dbr:SideEffects ) \nTRUE ( dbr:EuropeanGuidelines hkg:treatmentRecommendation dbr:Statins ) \n\n\n"}}

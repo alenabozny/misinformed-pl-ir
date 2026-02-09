@@ -1,0 +1,1 @@
+{"doc_id": "3092", "passages": {"rdf_passage_1": "TRUE ( dbr:Asthma hkg:treatment dbr:Medication )\nFALSE ( dbr:Asthma hkg:complication dbr:Steroid ) \n\n\n"}}

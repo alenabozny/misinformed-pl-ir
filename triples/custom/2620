@@ -1,0 +1,1 @@
+{"doc_id": "2620", "passages": {"rdf_passage_1": "TRUE ( dbr:NervousExhaustion hkg:symptom dbr:LemonBalm )\nTRUE ( dbr:Palpitations hkg:symptom dbr:LemonBalm )\nTRUE ( dbr:NeuralgicPain hkg:symptom dbr:LemonBalm )\nTRUE ( dbr:Stress hkg:cause dbr:HighBloodPressure )\nFALSE ( dbr:HighBloodPressure hkg:treatment dbr:Chamomile ) \n"}}

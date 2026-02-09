@@ -1,0 +1,1 @@
+{"doc_id": "670", "passages": {"rdf_passage_1": "TRUE ( dbr:AgingProcess hkg:cause dbr:Statin )\nTRUE ( dbr:MuscleAches hkg:symptom dbr:Statin )\nTRUE ( dbr:NervousSystemDisorder hkg:symptom dbr:Statin )\nTRUE ( dbr:Statin hkg:medication dbr:Statin ) \nTRUE ( dbr:Statin hkg:prevention dbr:CardiovascularDisease ) \n\n\n"}}

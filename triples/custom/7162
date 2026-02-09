@@ -1,0 +1,1 @@
+{"doc_id": "7162", "passages": {"rdf_passage_1": "TRUE ( dbr:Asthma hkg:treatment covid )\nTRUE ( dbr:AllergicRhinitis hkg:treatment covid )\nTRUE ( dbr:Asthma hkg:medication immunotherapy )\nTRUE ( dbr:AllergicRhinitis hkg:medication immunotherapy ) \n\n\n"}}

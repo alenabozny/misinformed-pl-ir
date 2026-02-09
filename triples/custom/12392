@@ -1,0 +1,1 @@
+{"doc_id": "12392", "passages": {"rdf_passage_1": "TRUE ( dbr:COVID-19 hkg:cause dbr:ProtectiveMask ) \nFALSE ( dbr:COVID-19 hkg:treatment dbr:ProtectiveMask )\nFALSE ( dbr:COVID-19 hkg:medication dbr:ProtectiveMask ) \n\n\n"}}

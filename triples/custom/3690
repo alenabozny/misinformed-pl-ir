@@ -1,0 +1,1 @@
+{"doc_id": "3690", "passages": {"rdf_passage_1": "TRUE ( dbr:COVID-19 hkg:symptom dbr:Mild_illness )\nTRUE ( dbr:Parkinson_disease hkg:treatment dbr:Amantadine )\nTRUE ( dbr:Multiple_sclerosis hkg:treatment dbr:Amantadine ) \nTRUE ( dbr:COVID-19 hkg:complication dbr:Parkinson_disease )\nTRUE ( dbr:COVID-19 hkg:complication dbr:Multiple_sclerosis )\n\n\n"}}

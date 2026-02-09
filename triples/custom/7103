@@ -1,0 +1,1 @@
+{"doc_id": "7103", "passages": {"rdf_passage_1": "TRUE ( dbr:InfluenzaA hkg:treatment dbr:Amantadine )\nFALSE ( dbr:InfluenzaA hkg:prevention dbr:Amantadine )\nTRUE ( dbr:ParkinsonsDisease hkg:treatment dbr:Amantadine )\n\n\n"}}

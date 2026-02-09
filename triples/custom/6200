@@ -1,0 +1,1 @@
+{"doc_id": "6200", "passages": {"rdf_passage_1": "TRUE ( dbr:KidneyDisease hkg:risk dbr:HighSodiumDiet )\nTRUE ( dbr:HeartDisease hkg:risk dbr:HighSodiumDiet )\nTRUE ( dbr:LiverDisease hkg:risk dbr:HighSodiumDiet ) \nTRUE ( dbr:SodiumRestriction hkg:treatment dbr:HighSodiumDiet )\n\n\n"}}

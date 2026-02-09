@@ -1,0 +1,1 @@
+{"doc_id": "603", "passages": {"rdf_passage_1": "TRUE ( dbr:MemoryLoss hkg:cause dbr:Cholesterol )\nTRUE ( dbr:Statins hkg:treatment dbr:MemoryLoss ) \nTRUE ( dbr:Cholesterol hkg:cause dbr:MemoryLoss ) \n\n\n"}}

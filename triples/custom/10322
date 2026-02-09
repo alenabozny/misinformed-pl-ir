@@ -1,0 +1,1 @@
+{"doc_id": "10322", "passages": {"rdf_passage_1": "TRUE ( dbr:Cancer hkg:complication dbr:KidneyDamage )\nTRUE ( dbr:Cancer hkg:risk dbr:ExcessVitaminC ) \nTRUE ( dbr:Chemotherapy hkg:cause dbr:KidneyDamage ) \n"}}

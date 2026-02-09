@@ -1,0 +1,1 @@
+{"doc_id": "2629", "passages": {"rdf_passage_1": "TRUE ( dbr:Rare_genetic_disease hkg:treatment gene_silencing ) \nTRUE ( dbr:Rare_genetic_disease hkg:cause protein ) \nFALSE ( dbr:Rare_genetic_disease hkg:symptom gene_silencing ) \n\n\n"}}

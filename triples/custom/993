@@ -1,0 +1,1 @@
+{"doc_id": "993", "passages": {"rdf_passage_1": "TRUE ( dbr:Atherosclerosis hkg:risk dbr:FamilyHistory ) \nTRUE ( dbr:Atherosclerosis hkg:complication dbr:LipidTest )\nFALSE ( dbr:Atherosclerosis hkg:treatment dbr:LipidTest ) \nFALSE ( dbr:LipidTest hkg:medication dbr:Cholesterol ) \nTRUE ( dbr:LipidTest hkg:diagnosis dbr:Atherosclerosis ) \n"}}

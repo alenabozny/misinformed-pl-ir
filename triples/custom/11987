@@ -1,0 +1,1 @@
+{"doc_id": "11987", "passages": {"rdf_passage_1": "TRUE ( dbr:COVID-19 hkg:cause dbr:hospital_bacteria ) \nFALSE ( dbr:COVID-19 hkg:treatment dbr:azithromycin ) \nTRUE ( dbr:COVID-19 hkg:risk dbr:treatment_resistant_bacterial_strains ) \n\n\n"}}

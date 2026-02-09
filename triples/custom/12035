@@ -1,0 +1,1 @@
+{"doc_id": "12035", "passages": {"rdf_passage_1": "- FALSE ( dbr:COVID-19 hkg:cause dbr:Autism )\n- FALSE ( dbr:COVID-19 hkg:complication dbr:Blood_disorders )\n- TRUE ( dbr:COVID-19 hkg:prevention dbr:Vaccination ) \n-  FALSE ( dbr:COVID-19 hkg:diagnosis dbr:Thrombocytopenia ) \n\n\n\n\n"}}

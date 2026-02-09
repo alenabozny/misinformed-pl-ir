@@ -1,0 +1,1 @@
+{"doc_id": "2075", "passages": {"rdf_passage_1": "TRUE ( dbr:Myopathy hkg:cause dbr:Free_radicals ) \nTRUE ( dbr:Acidosis hkg:complication dbr:Myopathy )\nTRUE ( dbr:Myopathy hkg:cause dbr:Muscle_damage ) \nTRUE ( dbr:Heart_muscle hkg:symptom dbr:Acidosis ) \n\n\n"}}

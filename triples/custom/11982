@@ -1,0 +1,1 @@
+{"doc_id": "11982", "passages": {"rdf_passage_1": "TRUE ( dbr:COVID-19 hkg:risk dbr:Artificial_lung_ventilation )\nTRUE ( dbr:Bacterial_pneumonia hkg:complication dbr:COVID-19 )\nTRUE ( dbr:Bacterial_pneumonia hkg:treatment dbr:Antibiotic ) \n\n\n"}}

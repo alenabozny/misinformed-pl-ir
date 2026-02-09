@@ -1,0 +1,1 @@
+{"doc_id": "659", "passages": {"rdf_passage_1": "TRUE ( dbr:Type_2_diabetes hkg:risk dbr:Statins )\nTRUE ( dbr:Type_2_diabetes hkg:complication dbr:Cardiovascular_disease )\nTRUE ( dbr:Coronary_artery_calcification hkg:cause dbr:Statins ) \n"}}

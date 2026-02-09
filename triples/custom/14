@@ -1,0 +1,1 @@
+{"doc_id": "14", "passages": {"rdf_passage_1": "TRUE ( dbr:COVID-19 hkg:risk dbr:High_toxic_load ) \nTRUE ( dbr:COVID-19 hkg:cause dbr:High_toxic_load )\nTRUE ( dbr:Chronic_disease hkg:cause dbr:High_toxic_load ) \nTRUE ( dbr:Infectious_disease hkg:cause dbr:High_toxic_load ) \n\n\n"}}

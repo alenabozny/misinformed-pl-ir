@@ -1,0 +1,1 @@
+{"doc_id": "652", "passages": {"rdf_passage_1": "TRUE ( dbr:Heart_attack hkg:complication dbr:Postoperative_mortality )\nTRUE ( dbr:Heart_attack hkg:treatment strophanthin )\nTRUE ( dbr:Heart_attack hkg:treatment dbr:Surgical_treatment ) \nTRUE ( dbr:Statins hkg:cause dbr:Coenzyme_Q10_deficiency )  \n\n\n"}}

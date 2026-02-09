@@ -1,0 +1,1 @@
+{"doc_id": "7047", "passages": {"rdf_passage_1": "TRUE ( dbr:AlcoholicLiverDisease hkg:cause dbr:Alcohol ) \nTRUE ( dbr:COVID19 hkg:risk dbr:OlderAdult )\nTRUE ( dbr:LiverDisease hkg:complication dbr:ImmuneSystemDysfunction ) \n\n\n"}}

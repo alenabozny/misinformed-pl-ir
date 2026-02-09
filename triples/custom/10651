@@ -1,0 +1,1 @@
+{"doc_id": "10651", "passages": {"rdf_passage_1": "TRUE ( dbr:COVID-19 hkg:diagnosis flu )\nTRUE ( dbr:COVID-19 hkg:diagnosis pneumonia )\nTRUE ( dbr:COVID-19 hkg:complication  dbr:Pneumonia )\nTRUE ( dbr:COVID-19 hkg:treatment  dbr:Amantadine )\nTRUE ( dbr:COVID-19 hkg:treatment  dbr:Hydroxychloroquine ) \n\n\n"}}

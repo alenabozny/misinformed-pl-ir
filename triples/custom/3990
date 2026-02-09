@@ -1,0 +1,1 @@
+{"doc_id": "3990", "passages": {"rdf_passage_1": "TRUE ( dbr:Nosebleed hkg:symptom dbr:High_blood_pressure )\nTRUE ( dbr:Nosebleed hkg:cause dbr:Acetylsalicylic_acid )\nFALSE ( dbr:Nosebleed hkg:treatment dbr:Acetylsalicylic_acid ) \n\n\n"}}

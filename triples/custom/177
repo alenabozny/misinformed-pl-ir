@@ -1,0 +1,1 @@
+{"doc_id": "177", "passages": {"rdf_passage_1": "TRUE ( dbr:COVID-19 hkg:symptom dbr:Pulmonary_edema )\nTRUE ( dbr:COVID-19 hkg:complication dbr:Sepsis )\nTRUE ( dbr:COVID-19 hkg:complication dbr:ARDS )\nTRUE ( dbr:COVID-19 hkg:cause dbr:Endothelial_cell_activation ) \nTRUE ( dbr:COVID-19 hkg:cause dbr:Coagulopathy )\n\n\n"}}

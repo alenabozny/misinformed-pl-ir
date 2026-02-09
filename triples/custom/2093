@@ -1,0 +1,1 @@
+{"doc_id": "2093", "passages": {"rdf_passage_1": "TRUE ( dbr:Birth_defect hkg:cause dbr:Statin )\nTRUE ( dbr:Atherosclerosis hkg:risk dbr:Fluoride )\nTRUE ( dbr:Heart_damage hkg:complication dbr:Atherosclerosis ) \nFALSE ( dbr:Pregnancy hkg:cause dbr:Atherosclerosis ) \n"}}

@@ -1,0 +1,1 @@
+{"doc_id": "102", "passages": {"rdf_passage_1": "TRUE ( dbr:HeartDisease hkg:diagnosis dbr:StatinTherapy )\nTRUE ( dbr:MuscleWeakness hkg:symptom dbr:StatinTherapy )\nTRUE ( dbr:JointPain hkg:symptom dbr:StatinTherapy )\nTRUE ( dbr:Nausea hkg:symptom dbr:StatinTherapy )\nTRUE ( dbr:Dizziness hkg:symptom dbr:StatinTherapy ) \n\n\n"}}

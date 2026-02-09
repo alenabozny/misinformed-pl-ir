@@ -1,0 +1,1 @@
+{"doc_id": "724", "passages": {"rdf_passage_1": "TRUE (dbr:Cardiovascular_disease hkg:risk dbr:High_LDL_cholesterol) \nFALSE (dbr:Cardiovascular_disease hkg:treatment dbr:Lipid_profile)\nFALSE (dbr:Cardiovascular_disease hkg:medication dbr:Lipid_profile) \n\n\n"}}

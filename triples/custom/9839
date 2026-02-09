@@ -1,0 +1,1 @@
+{"doc_id": "9839", "passages": {"rdf_passage_1": "FALSE ( dbr:Alzheimer's_disease hkg:cause dbr:Drugs )\nTRUE ( dbr:Alzheimer's_disease hkg:risk dbr:Aging )\nTRUE ( dbr:Alzheimer's_disease hkg:symptom dbr:Memory_loss )\nTRUE ( dbr:Cholesterol hkg:symptom dbr:Muscle_pain ) \nTRUE ( dbr:Cholesterol hkg:symptom dbr:Loss_of_libido ) \n"}}

@@ -1,0 +1,1 @@
+{"doc_id": "7148", "passages": {"rdf_passage_1": "TRUE ( dbr:Anaphylaxis hkg:complication dbr:COVID-19_vaccine )\nTRUE ( dbr:Anaphylaxis hkg:cause dbr:Allergen )\nTRUE ( dbr:Anaphylaxis hkg:symptom dbr:Hives ) \nTRUE ( dbr:Anaphylaxis hkg:symptom dbr:Itching ) \nTRUE ( dbr:Anaphylaxis hkg:symptom dbr:Burning ) \n\n\n"}}

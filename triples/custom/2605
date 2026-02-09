@@ -1,0 +1,1 @@
+{"doc_id": "2605", "passages": {"rdf_passage_1": "TRUE ( dbr:Hypertension hkg:diagnosis dbr:High_blood_pressure )\nTRUE ( dbr:Hypertension hkg:cause dbr:Diet ) \nTRUE ( dbr:Hypertension hkg:cause dbr:Lifestyle )\nTRUE ( dbr:Hypertension hkg:treatment dbr:Medication ) \n"}}

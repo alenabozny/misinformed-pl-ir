@@ -1,0 +1,1 @@
+{"doc_id": "2630", "passages": {"rdf_passage_1": "TRUE ( dbr:High_cholesterol hkg:cause dbr:PCSK9 ) \nTRUE ( dbr:High_cholesterol hkg:risk dbr:LDL_cholesterol )\nTRUE ( dbr:High_cholesterol hkg:treatment inclisiran ) \n\n\n"}}

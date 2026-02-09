@@ -1,0 +1,1 @@
+{"doc_id": "4277", "passages": {"rdf_passage_1": "TRUE ( dbr:COVID19 hkg:complication dbr:Nausea )\nTRUE ( dbr:COVID19 hkg:complication dbr:Diarrhea )\nTRUE ( dbr:COVID19 hkg:complication dbr:Stomach_cramps )\nTRUE ( dbr:COVID19 hkg:treatment dbr:Zinc )\nTRUE ( dbr:COVID19 hkg:treatment dbr:Vitamin_C ) \n\n\n"}}

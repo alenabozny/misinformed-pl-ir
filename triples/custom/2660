@@ -1,0 +1,1 @@
+{"doc_id": "2660", "passages": {"rdf_passage_1": "TRUE ( dbr:Malignant_hypertension hkg:risk dbr:Smoking )\nTRUE ( dbr:Malignant_hypertension hkg:risk dbr:Oral_contraception )\nTRUE ( dbr:Malignant_hypertension hkg:cause dbr:High_blood_pressure )\nTRUE ( dbr:Malignant_hypertension hkg:complication dbr:Organ_damage ) \n\n\n"}}

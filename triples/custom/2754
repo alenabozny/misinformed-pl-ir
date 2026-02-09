@@ -1,0 +1,1 @@
+{"doc_id": "2754", "passages": {"rdf_passage_1": "TRUE ( dbr:Hypercholesterolemia hkg:complication dbr:Angina_pectoris )\nTRUE ( dbr:Hypercholesterolemia hkg:cause dbr:High_LDL_cholesterol )\nTRUE ( dbr:High_LDL_cholesterol hkg:risk dbr:Ischemia )\nTRUE ( dbr:High_LDL_cholesterol hkg:risk dbr:Necrosis ) \n\n\n"}}

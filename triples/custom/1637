@@ -1,0 +1,1 @@
+{"doc_id": "1637", "passages": {"rdf_passage_1": "TRUE ( dbr:COVID-19 hkg:cause dbr:spike_protein ) \nFALSE ( dbr:COVID-19 hkg:treatment dbr:vaccine )\nTRUE ( dbr:COVID-19 hkg:prevention dbr:vaccine ) \nFALSE ( dbr:COVID-19 hkg:symptom dbr:aging ) \nFALSE ( dbr:COVID-19 hkg:diagnosis dbr:aging ) \n\n\n"}}

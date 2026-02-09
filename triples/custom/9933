@@ -1,0 +1,1 @@
+{"doc_id": "9933", "passages": {"rdf_passage_1": "TRUE ( dbr:High_cholesterol hkg:treatment dbr:Medication )\nTRUE ( dbr:High_cholesterol hkg:cause dbr:Elevated_LDL_cholesterol )\nTRUE ( dbr:High_cholesterol hkg:cause dbr:Elevated_triglycerides )\nFALSE ( dbr:High_cholesterol hkg:symptom dbr:Cholesterol ) \n\n\n"}}

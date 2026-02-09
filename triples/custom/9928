@@ -1,0 +1,1 @@
+{"doc_id": "9928", "passages": {"rdf_passage_1": "FALSE ( dbr:High_cholesterol hkg:cause dbr:Plant_sterols ) \nTRUE ( dbr:High_cholesterol hkg:risk dbr:Overconsumption )\nFALSE ( dbr:High_cholesterol hkg:treatment dbr:Statin )\nFALSE ( dbr:High_cholesterol hkg:symptom dbr:Skin_problems ) \n"}}

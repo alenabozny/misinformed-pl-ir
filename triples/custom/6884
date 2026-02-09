@@ -1,0 +1,1 @@
+{"doc_id": "6884", "passages": {"rdf_passage_1": "TRUE ( dbr:Autism_Spectrum_Disorder hkg:symptom dbr:Developmental_delay ) \nFALSE ( dbr:Autism_Spectrum_Disorder hkg:cause dbr:Challenging_developmental_phase ) \nFALSE ( dbr:Autism_Spectrum_Disorder hkg:treatment dbr:Child_psychologist )\n\n\n"}}

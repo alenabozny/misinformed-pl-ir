@@ -1,0 +1,1 @@
+{"doc_id": "7799", "passages": {"rdf_passage_1": "TRUE ( dbr:COPD hkg:risk dbr:Influenza ) \nTRUE ( dbr:COPD hkg:complication dbr:Severe_infection ) \nTRUE ( dbr:Influenza hkg:prevention dbr:Vaccination ) \n"}}

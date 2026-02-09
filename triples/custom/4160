@@ -1,0 +1,1 @@
+{"doc_id": "4160", "passages": {"rdf_passage_1": "TRUE ( dbr:Diabetes hkg:cause dbr:Hypertension )\nTRUE ( dbr:Hypertension hkg:risk dbr:CardiovascularDisease )\nTRUE ( dbr:AdiposeTissue hkg:risk dbr:Diabetes ) \nTRUE ( dbr:AdiposeTissue hkg:risk dbr:Hypertension ) \n\n\n"}}

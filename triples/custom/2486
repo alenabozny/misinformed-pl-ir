@@ -1,0 +1,1 @@
+{"doc_id": "2486", "passages": {"rdf_passage_1": "FALSE ( dbr:High_cholesterol hkg:cause dbr:Suicidal_tendencies )\nFALSE ( dbr:Low_cholesterol hkg:cause dbr:Suicidal_tendencies ) \nFALSE ( dbr:Low_cholesterol hkg:complication dbr:Aggression )\nFALSE ( dbr:High_cholesterol hkg:risk dbr:COVID-19 ) \nFALSE ( dbr:Low_cholesterol hkg:risk dbr:COVID-19 ) \n\n\n"}}

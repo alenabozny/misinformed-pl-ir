@@ -1,0 +1,1 @@
+{"doc_id": "7156", "passages": {"rdf_passage_1": "TRUE ( dbr:Allergy hkg:risk dbr:AllergenExposure )\nFALSE ( dbr:COVID-19 hkg:complication dbr:WaspSting ) \nTRUE ( dbr:GrassPollenAllergy hkg:symptom dbr:RunnyNose )\nTRUE ( dbr:GrassPollenAllergy hkg:symptom dbr:Conjunctivitis )\nFALSE ( dbr:Vaccination hkg:cause dbr:AllergicReaction )\n"}}

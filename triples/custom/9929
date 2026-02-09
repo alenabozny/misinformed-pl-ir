@@ -1,0 +1,1 @@
+{"doc_id": "9929", "passages": {"rdf_passage_1": "FALSE ( dbr:Pregnancy hkg:treatment dbr:NaturalStatin )\nFALSE ( dbr:Breastfeeding hkg:treatment dbr:NaturalStatin )\nFALSE ( dbr:Child hkg:treatment dbr:NaturalStatin )\nFALSE ( dbr:LipidMetabolismDisorder hkg:cause dbr:Cholesterol )\nFALSE ( dbr:LipidMetabolismDisorder hkg:cause dbr:CholestrolRestriction )\n\n\n"}}

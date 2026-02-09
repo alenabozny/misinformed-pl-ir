@@ -1,0 +1,1 @@
+{"doc_id": "3971", "passages": {"rdf_passage_1": "FALSE ( dbr:HeartFailure hkg:treatment  dbr:Medication )\nFALSE ( dbr:HeartDefect hkg:treatment  dbr:Medication )\nTRUE ( dbr:CoronaryArteryDisease hkg:symptom dbr:ShortnessOfBreath )\nTRUE ( dbr:CoronaryArteryDisease hkg:symptom dbr:Fatigue )\nTRUE ( dbr:CoronaryArteryDisease hkg:cause dbr:Neurosis ) \n\n\n"}}

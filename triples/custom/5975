@@ -1,0 +1,1 @@
+{"doc_id": "5975", "passages": {"rdf_passage_1": "TRUE ( dbr:Duodenal_ulcer hkg:symptom dbr:Inflammation )\nTRUE ( dbr:Duodenal_ulcer hkg:complication dbr:Malabsorption )\nTRUE ( dbr:Duodenal_ulcer hkg:cause dbr:Digestive_system_disorders )\nTRUE ( dbr:Duodenal_inflammation hkg:treatment dbr:Bolotov_s_balm ) \n"}}

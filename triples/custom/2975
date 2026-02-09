@@ -1,0 +1,1 @@
+{"doc_id": "2975", "passages": {"rdf_passage_1": "TRUE ( dbr:Smoking hkg:risk dbr:HighCholesterol )\nTRUE ( dbr:HighHomocysteineLevels hkg:risk dbr:CardiovascularDisease ) \nFALSE ( dbr:Smoking hkg:treatment dbr:HighCholesterol )\nFALSE ( dbr:Smoking hkg:medication dbr:HighCholesterol ) \n\n\n"}}

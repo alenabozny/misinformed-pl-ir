@@ -1,0 +1,1 @@
+{"doc_id": "2686", "passages": {"rdf_passage_1": "TRUE ( dbr:Hypertension hkg:diagnosis dbr:BloodPressureMeasurement )\nTRUE ( dbr:Hypertension hkg:cause dbr:UnhealthyLifestyle )\nTRUE ( dbr:Hypertension hkg:cause dbr:DrugUse )\nTRUE ( dbr:Hypertension hkg:cause dbr:InsufficientPhysicalActivity ) \nTRUE ( dbr:Hypertension hkg:treatment Medication ) \n\n\n"}}

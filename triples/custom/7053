@@ -1,0 +1,1 @@
+{"doc_id": "7053", "passages": {"rdf_passage_1": "TRUE ( dbr:Chronic_liver_disease hkg:cause dbr:Alcohol )\nTRUE ( dbr:Chronic_liver_disease hkg:complication dbr:Immune_system_disorders )\nTRUE ( dbr:Chronic_liver_disease hkg:risk dbr:Bacterial_infection ) \nTRUE ( dbr:Chronic_liver_disease hkg:risk dbr:Viral_infection ) \n\n\n"}}

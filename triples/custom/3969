@@ -1,0 +1,1 @@
+{"doc_id": "3969", "passages": {"rdf_passage_1": "TRUE ( dbr:Fainting hkg:cause dbr:BlockedArtery )\nTRUE ( dbr:Fainting hkg:symptom dbr:LowBloodPressure ) \nTRUE ( dbr:Fainting hkg:complication dbr:HeartDisease ) \n\n\n"}}

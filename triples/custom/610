@@ -1,0 +1,1 @@
+{"doc_id": "610", "passages": {"rdf_passage_1": "TRUE ( dbr:StatinTreatment hkg:cause dbr:FreeRadical )\nTRUE ( dbr:StatinTreatment hkg:complication dbr:MitochondrialDNAdamage )\nTRUE ( dbr:StatinTreatment hkg:complication dbr:CellularEnergyLoss ) \nTRUE ( dbr:CoenzymeQ10 hkg:prevention dbr:FreeRadical ) \n\n\n"}}

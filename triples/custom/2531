@@ -1,0 +1,1 @@
+{"doc_id": "2531", "passages": {"rdf_passage_1": "TRUE ( dbr:High_cholesterol hkg:risk dbr:Low_cholesterol )\nTRUE ( dbr:Cliofibrate hkg:medication dbr:High_cholesterol ) \nTRUE ( dbr:Cliofibrate hkg:treatment dbr:High_cholesterol )\nTRUE ( dbr:High_cholesterol hkg:cause dbr:Cardiovascular_disease )\nTRUE ( dbr:High_cholesterol hkg:cause dbr:Cancer ) \n\n\n"}}

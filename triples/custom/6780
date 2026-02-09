@@ -1,0 +1,1 @@
+{"doc_id": "6780", "passages": {"rdf_passage_1": "TRUE ( dbr:Cardiovascular_disease hkg:cause dbr:High_LDL_cholesterol ) \nTRUE ( dbr:Familial_hypercholesterolemia hkg:diagnosis dbr:High_LDL_cholesterol ) \nFALSE ( dbr:Cardiovascular_disease hkg:treatment dbr:Familial_hypercholesterolemia ) \n\n\n"}}

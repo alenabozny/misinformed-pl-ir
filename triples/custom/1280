@@ -1,0 +1,1 @@
+{"doc_id": "1280", "passages": {"rdf_passage_1": "TRUE ( dbr:Cancer hkg:symptom dbr:Low_cholesterol )\nTRUE ( dbr:Low_cholesterol hkg:cause dbr:Vitamin_D3_deficiency )\nTRUE ( dbr:Vitamin_D3_deficiency hkg:complication dbr:Cancer ) \n\n\n"}}

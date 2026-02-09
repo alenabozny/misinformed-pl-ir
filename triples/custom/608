@@ -1,0 +1,1 @@
+{"doc_id": "608", "passages": {"rdf_passage_1": "TRUE ( dbr:Statin hkg:treatment dbr:Brain_damage ) \nTRUE ( dbr:Statin hkg:complication dbr:Glial_cell_damage ) \nTRUE ( dbr:Cholesterol_synthesis hkg:cause dbr:Brain_function ) \nFALSE ( dbr:Statin hkg:cause dbr:Cholesterol_synthesis ) \n\n\n"}}

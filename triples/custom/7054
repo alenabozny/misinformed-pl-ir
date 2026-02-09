@@ -1,0 +1,1 @@
+{"doc_id": "7054", "passages": {"rdf_passage_1": "TRUE ( dbr:AlcoholicLiverDisease hkg:cause dbr:AlcoholConsumption ) \nTRUE ( dbr:AlcoholicLiverDisease hkg:complication dbr:Tuberculosis ) \nTRUE ( dbr:AlcoholicLiverDisease hkg:complication dbr:ViralRespiratoryInfection ) \nTRUE ( dbr:AlcoholicLiverDisease hkg:complication dbr:VirusRelatedCancer ) \n\n\n"}}

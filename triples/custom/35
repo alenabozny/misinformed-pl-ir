@@ -1,0 +1,1 @@
+{"doc_id": "35", "passages": {"rdf_passage_1": "TRUE ( dbr:COVID-19 hkg:diagnosis dbr:HIV_infection )\nFALSE ( dbr:COVID-19 hkg:cause dbr:Infertility )\nTRUE ( dbr:COVID-19Vaccine hkg:risk dbr:Infertility )\nTRUE ( dbr:COVID-19Vaccine hkg:risk dbr:Irreversible_genetic_damage ) \n\n\n"}}

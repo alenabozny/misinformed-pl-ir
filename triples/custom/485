@@ -1,0 +1,1 @@
+{"doc_id": "485", "passages": {"rdf_passage_1": "TRUE ( dbr:Asthma hkg:prevention dbr:AvoidingCigaretteSmoke )\nTRUE ( dbr:Asthma hkg:prevention dbr:AvoidingPollutants )\nTRUE ( dbr:Asthma hkg:complication dbr:AllergicRhinitis )\nTRUE ( dbr:Asthma hkg:treatment dbr:SpecificImmunotherapy ) \n"}}

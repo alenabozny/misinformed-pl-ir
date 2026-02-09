@@ -1,0 +1,1 @@
+{"doc_id": "2735", "passages": {"rdf_passage_1": "TRUE ( dbr:High_cholesterol hkg:diagnosis dbr:Xanthelasma )\nTRUE ( dbr:High_cholesterol hkg:cause dbr:Xanthelasma ) \nFALSE ( dbr:High_cholesterol hkg:treatment dbr:Xanthelasma ) \n"}}

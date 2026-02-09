@@ -1,0 +1,1 @@
+{"doc_id": "7766", "passages": {"rdf_passage_1": "TRUE ( dbr:Asthma hkg:risk dbr:Allergen )\nTRUE ( dbr:Asthma hkg:risk dbr:PathogenicVirus )\nTRUE ( dbr:Asthma hkg:treatment dbr:Medication ) \n"}}

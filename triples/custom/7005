@@ -1,0 +1,1 @@
+{"doc_id": "7005", "passages": {"rdf_passage_1": "TRUE ( dbr:Vaccination hkg:complication dbr:Pain )\nTRUE ( dbr:Vaccination hkg:complication dbr:Fever )\nTRUE ( dbr:Pain hkg:treatment dbr:Ibuprofen )\nTRUE ( dbr:Fever hkg:treatment dbr:Ibuprofen )\nTRUE ( dbr:Fever hkg:treatment dbr:Paracetamol ) \n\n\n"}}

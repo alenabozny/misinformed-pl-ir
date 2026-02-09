@@ -1,0 +1,1 @@
+{"doc_id": "7108", "passages": {"rdf_passage_1": "FALSE ( dbr:Cerebral_arteriosclerosis hkg:treatment dbr:Amantadine )\nTRUE ( dbr:Glaucoma hkg:risk dbr:Amantadine )\nTRUE ( dbr:Prostatic_hyperplasia hkg:risk dbr:Amantadine )\nTRUE ( dbr:Exogenous_psychosis hkg:risk dbr:Amantadine ) \n"}}

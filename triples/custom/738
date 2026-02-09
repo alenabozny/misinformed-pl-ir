@@ -1,0 +1,1 @@
+{"doc_id": "738", "passages": {"rdf_passage_1": "TRUE ( dbr:Atherosclerosis hkg:complication dbr:Death ) \nTRUE ( dbr:Atherosclerosis hkg:cause dbr:CoronaryArteryDisease ) \nTRUE ( dbr:HighLDLCholesterol hkg:risk dbr:CoronaryArteryDisease ) \nTRUE ( dbr:Evolocumab hkg:treatment dbr:HighLDLCholesterol ) \n\n\n"}}

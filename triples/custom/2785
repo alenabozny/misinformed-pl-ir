@@ -1,0 +1,1 @@
+{"doc_id": "2785", "passages": {"rdf_passage_1": "TRUE ( dbr:Heart_attack hkg:complication dbr:Elevated_liver_enzyme )\nTRUE ( dbr:Statins hkg:complication dbr:Elevated_liver_enzyme )\nTRUE ( dbr:Muscle_pain hkg:symptom dbr:Statins ) \n\n\n"}}

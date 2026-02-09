@@ -1,0 +1,1 @@
+{"doc_id": "4008", "passages": {"rdf_passage_1": "TRUE ( dbr:HeartAttack hkg:symptom dbr:ChestPain )\nTRUE ( dbr:HeartAttack hkg:symptom dbr:Palpitation )\nTRUE ( dbr:HeartAttack hkg:symptom dbr:Nausea ) \n"}}

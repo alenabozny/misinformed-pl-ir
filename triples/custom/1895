@@ -1,0 +1,1 @@
+{"doc_id": "1895", "passages": {"rdf_passage_1": "TRUE ( dbr:COVID-19 hkg:complication dbr:Venous_insufficiency )\nTRUE ( dbr:COVID-19 hkg:complication dbr:Thrombosis )\nTRUE ( dbr:COVID-19 hkg:complication dbr:Phlebitis ) \nFALSE ( dbr:COVID-19 hkg:treatment dbr:Heparin ) \n\n\n"}}

@@ -1,0 +1,1 @@
+{"doc_id": "2558", "passages": {"rdf_passage_1": "TRUE ( dbr:Atherosclerosis hkg:cause dbr:OxidizedLDL ) \nTRUE ( dbr:Atherosclerosis hkg:complication dbr:BloodVesselDisease ) \nTRUE ( dbr:HighCholesterol hkg:cause dbr:OxidizedLDL ) \n\n\n"}}

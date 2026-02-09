@@ -1,0 +1,1 @@
+{"doc_id": "628", "passages": {"rdf_passage_1": "TRUE ( dbr:CoronaryArteryCalcification hkg:complication dbr:Statins )\nTRUE ( dbr:Statins hkg:medication dbr:VitaminK )\nTRUE ( dbr:Statins hkg:cause dbr:LowVitaminK ) \nTRUE ( dbr:VitaminK2 hkg:prevention dbr:LowVitaminK ) \n\n\n"}}

@@ -1,0 +1,1 @@
+{"doc_id": "1321", "passages": {"rdf_passage_1": "```turtle\nTRUE ( dbr:COPD hkg:cause dbr:InhaledIrritants )\nTRUE ( dbr:COPD hkg:symptom dbr:ShortnessOfBreath ) \nTRUE ( dbr:COPD hkg:complication dbr:RespiratoryFailure )\n```"}}

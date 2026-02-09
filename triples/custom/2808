@@ -1,0 +1,1 @@
+{"doc_id": "2808", "passages": {"rdf_passage_1": "TRUE ( dbr:Statin hkg:complication dbr:Side_effect )\nTRUE ( dbr:Nicotinic_acid hkg:risk dbr:Statin_side_effect ) \nTRUE ( dbr:Bile_acid_sequestrant hkg:effect dbr:Statin )  \n"}}

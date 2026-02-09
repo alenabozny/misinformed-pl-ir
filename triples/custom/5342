@@ -1,0 +1,1 @@
+{"doc_id": "5342", "passages": {"rdf_passage_1": "TRUE ( dbr:Heart_attack hkg:complication dbr:Chest_pain )\nTRUE ( dbr:Heart_attack hkg:prevention dbr:Physical_exercise )\nTRUE ( dbr:Heart_attack hkg:cause dbr:Physical_exertion ) \n\n\n"}}

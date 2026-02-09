@@ -1,0 +1,1 @@
+{"doc_id": "9714", "passages": {"rdf_passage_1": "FALSE ( dbr:HeavyMetalToxicity hkg:treatment chelation ) \nTRUE ( dbr:HeavyMetalToxicity hkg:cause dbr:HeavyMetal )\nTRUE ( dbr:ChelationTherapy hkg:complication dbr:MineralDeficiency ) \n"}}

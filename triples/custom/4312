@@ -1,0 +1,1 @@
+{"doc_id": "4312", "passages": {"rdf_passage_1": "TRUE ( dbr:COVID-19 hkg:symptom dbr:Sore_throat )\nTRUE ( dbr:COVID-19 hkg:symptom dbr:Cough )\nTRUE ( dbr:COVID-19 hkg:symptom dbr:Irritation ) \nTRUE ( dbr:Respiratory_infection hkg:treatment dbr:Zinc ) \n\n\n"}}

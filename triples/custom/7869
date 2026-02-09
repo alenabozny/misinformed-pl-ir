@@ -1,0 +1,1 @@
+{"doc_id": "7869", "passages": {"rdf_passage_1": "TRUE ( dbr:COVID-19 hkg:symptom dbr:Inflammation ) \nTRUE ( dbr:Diabetes mellitus hkg:prevention dbr:COVID-19 )\nTRUE ( dbr:Heart failure hkg:prevention dbr:COVID-19 )\nTRUE ( dbr:COPD hkg:prevention dbr:COVID-19 )\nTRUE ( dbr:Asthma hkg:prevention dbr:COVID-19 ) \n\n\n"}}

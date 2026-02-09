@@ -1,0 +1,1 @@
+{"doc_id": "7203", "passages": {"rdf_passage_1": "TRUE ( dbr:COVID-19 hkg:risk dbr:Asthma )\nTRUE ( dbr:Asthma hkg:symptom dbr:Respiratory_infection )\nTRUE ( dbr:Coronaviruses hkg:cause dbr:Respiratory_infection )\nTRUE ( dbr:Corticosteroids hkg:treatment dbr:Asthma )\nTRUE ( dbr:COVID-19 hkg:complication dbr:Asthma )\n\n\n"}}

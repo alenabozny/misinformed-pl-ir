@@ -1,0 +1,1 @@
+{"doc_id": "2129", "passages": {"rdf_passage_1": "FALSE ( dbr:HighCholesterol hkg:complication dbr:HeartAttack )\nFALSE ( dbr:LowCholesterol hkg:complication dbr:HeartAttack )\nFALSE ( dbr:CholesterolLevel hkg:cause dbr:HeartAttack ) \n\n\n"}}

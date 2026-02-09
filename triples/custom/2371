@@ -1,0 +1,1 @@
+{"doc_id": "2371", "passages": {"rdf_passage_1": "TRUE ( dbr:High_cholesterol hkg:risk dbr:Sedentary_lifestyle ) \nTRUE ( dbr:High_cholesterol hkg:prevention dbr:Physical_activity )\nTRUE ( dbr:High_cholesterol hkg:cause dbr:LDL_cholesterol )\nTRUE ( dbr:High_cholesterol hkg:cause dbr:HDL_cholesterol ) \n\n\n"}}

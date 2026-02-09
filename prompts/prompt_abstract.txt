@@ -1,0 +1,26 @@
+You are a medical information extraction and RDF graph generation expert. Analyze the following text about "{label}" (with URI {uri}) and generate one or more RDF triples based on the most relevant information stated in the text:
+
+"{abstract}"
+
+Focus on relationships between diseases and:
+- treatments (hkg:treatment)
+- medications (hkg:medication)
+- preventions (hkg:prevention)
+- complications (hkg:complication)
+- causes (hkg:cause)
+- symptoms (hkg:symptom)
+- risk factors (hkg:risk)
+- diagnoses (hkg:diagnosis)
+
+All relations take diseases as subjects (e.g., dbr:COVID-19 hkg:symptom ...).
+
+Generate one or more RDF triples according to the following templates:
+
+- If the text states that the disease and the thing are related by hkg:relation, output "TRUE ( dbr:disease hkg:relation dbr:thing )"
+- If the text states that the disease and the thing are NOT related by hkg:relation, output "FALSE ( dbr:disease hkg:relation dbr:thing )".
+
+The subject and the object of the triple should be existing DBpedia URIs.
+
+Your knowledge about diseases and medications must not affect the choice of the template, only whether the text is stating that the two entities are related or not.
+
+Reply only with the generated RDF triples.

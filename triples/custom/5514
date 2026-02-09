@@ -1,0 +1,1 @@
+{"doc_id": "5514", "passages": {"rdf_passage_1": "TRUE ( dbr:Hypertension hkg:cause dbr:Alcohol )\nTRUE ( dbr:Alcohol hkg:risk dbr:LiverDisease ) \nTRUE ( dbr:Alcohol hkg:risk dbr:KidneyDisease )\nTRUE ( dbr:Alcohol hkg:complication dbr:Hypertension ) \nTRUE ( dbr:Alcohol hkg:symptom dbr:GastrointestinalDisease ) \n\n\n"}}

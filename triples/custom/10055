@@ -1,0 +1,1 @@
+{"doc_id": "10055", "passages": {"rdf_passage_1": "TRUE ( dbr:High_cholesterol hkg:risk dbr:Xanthomas ) \nTRUE ( dbr:High_cholesterol hkg:risk dbr:Achilles_tendinitis ) \nTRUE ( dbr:High_cholesterol hkg:complication dbr:Xanthomas )\nTRUE ( dbr:High_cholesterol hkg:complication dbr:Achilles_tendinitis ) \n\n\n"}}

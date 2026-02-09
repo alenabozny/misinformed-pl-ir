@@ -1,0 +1,1 @@
+{"doc_id": "1299", "passages": {"rdf_passage_1": "TRUE ( dbr:Coronary_disease hkg:cause dbr:Smoking )\nTRUE ( dbr:Coronary_disease hkg:cause dbr:Poor_diet )\nTRUE ( dbr:Coronary_disease hkg:cause dbr:Lack_of_physical_exercise )\nTRUE ( dbr:Coronary_disease hkg:risk dbr:Cholesterol ) \n"}}

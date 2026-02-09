@@ -1,0 +1,1 @@
+{"doc_id": "2408", "passages": {"rdf_passage_1": "TRUE ( dbr:Hypertension hkg:cause dbr:Blood_vessel_damage )\nTRUE ( dbr:Hypertension hkg:cause dbr:Atherosclerosis )\nTRUE ( dbr:Hypertension hkg:complication dbr:Heart_attack )\nTRUE ( dbr:Hypertension hkg:complication dbr:Stroke )\nTRUE ( dbr:Atherosclerosis hkg:prevention dbr:Magnesium ) \n\n"}}

@@ -1,0 +1,1 @@
+{"doc_id": "12008", "passages": {"rdf_passage_1": "TRUE ( dbr:Poisoning hkg:cause dbr:Fever )\nTRUE ( dbr:Poisoning hkg:symptom dbr:Nervousness )\nTRUE ( dbr:Poisoning hkg:complication dbr:SecondaryPoisoning )\nTRUE ( dbr:Poisoning hkg:treatment dbr:Aspirin )\nFALSE ( dbr:Poisoning hkg:prevention dbr:Butter ) \n\n\n"}}

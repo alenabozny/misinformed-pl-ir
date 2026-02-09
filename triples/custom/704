@@ -1,0 +1,1 @@
+{"doc_id": "704", "passages": {"rdf_passage_1": "TRUE ( dbr:Hypercholesterolemia hkg:treatment dbr:Statin )\nTRUE ( dbr:Hyperuricemia hkg:treatment dbr:Statin )\nTRUE ( dbr:Hypercholesterolemia hkg:complication dbr:Statin ) \nTRUE ( dbr:Colchicine hkg:interaction dbr:Statin ) \n\n\n"}}

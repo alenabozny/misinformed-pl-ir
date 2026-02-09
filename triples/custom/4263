@@ -1,0 +1,1 @@
+{"doc_id": "4263", "passages": {"rdf_passage_1": "TRUE ( dbr:COVID-19 hkg:treatment dbr:Zinc_ionophore ) \nTRUE ( dbr:COVID-19 hkg:treatment dbr:Zinc ) \nFALSE ( dbr:COVID-19 hkg:prevention dbr:Zinc_ionophore ) \nFALSE ( dbr:COVID-19 hkg:prevention dbr:Zinc ) \n\n\n"}}

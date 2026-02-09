@@ -1,0 +1,1 @@
+{"doc_id": "777", "passages": {"rdf_passage_1": "TRUE ( dbr:Thrombosis hkg:diagnosis dbr:Computed_tomography )\nTRUE ( dbr:Thrombosis hkg:diagnosis dbr:Magnetic_resonance_imaging )\nTRUE ( dbr:Blood_clot hkg:cause dbr:Vaccination ) \n\n\n"}}

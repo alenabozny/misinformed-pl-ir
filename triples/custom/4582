@@ -1,0 +1,1 @@
+{"doc_id": "4582", "passages": {"rdf_passage_1": "TRUE ( dbr:Atherosclerosis hkg:symptom dbr:Dizziness )\nTRUE ( dbr:Atherosclerosis hkg:symptom dbr:Headache )\nTRUE ( dbr:Atherosclerosis hkg:symptom dbr:Tinnitus )\nTRUE ( dbr:Atherosclerosis hkg:symptom dbr:MemoryDisturbance )\nTRUE ( dbr:Atherosclerosis hkg:complication dbr:BlockedArtery ) \n\n\n"}}

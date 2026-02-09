@@ -1,0 +1,1 @@
+{"doc_id": "4028", "passages": {"rdf_passage_1": "TRUE ( dbr:Heart_disease hkg:cause dbr:High_blood_sugar ) \nTRUE ( dbr:Heart_disease hkg:risk dbr:Diet ) \nFALSE ( dbr:Heart_disease hkg:treatment dbr:Diet ) \n\n\n"}}

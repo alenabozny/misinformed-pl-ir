@@ -1,0 +1,1 @@
+{"doc_id": "4026", "passages": {"rdf_passage_1": "TRUE ( dbr:HeartDisease hkg:cause dbr:ExcessiveCarbohydrateConsumption )\nTRUE ( dbr:HeartDisease hkg:risk dbr:FamilyHistoryOfIllness )\nTRUE ( dbr:HeartDisease hkg:symptom dbr:InsulinResistance )\nTRUE ( dbr:HeartDisease hkg:prevention dbr:LifestyleChange ) \n\n\n"}}

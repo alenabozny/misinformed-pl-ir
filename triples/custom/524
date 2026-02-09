@@ -1,0 +1,1 @@
+{"doc_id": "524", "passages": {"rdf_passage_1": "TRUE ( dbr:Poisoning hkg:cause dbr:Statin )\nTRUE ( dbr:Statin hkg:medication dbr:Statin ) \nTRUE ( dbr:Weakness hkg:symptom dbr:Poisoning ) \n\n\n"}}

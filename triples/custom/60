@@ -1,0 +1,1 @@
+{"doc_id": "60", "passages": {"rdf_passage_1": "TRUE ( dbr:Pandemic hkg:cause dbr:VirusMutation )\nTRUE ( dbr:Vaccination hkg:prevention dbr:Pandemic )\nTRUE ( dbr:AntibodyDependentEnhancement hkg:complication dbr:Vaccination ) \n"}}

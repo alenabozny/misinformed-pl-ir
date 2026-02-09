@@ -1,0 +1,1 @@
+{"doc_id": "2674", "passages": {"rdf_passage_1": "TRUE ( dbr:Hypertension hkg:cause dbr:Salt_intake )\nTRUE ( dbr:Hypertension hkg:diagnosis dbr:Diabetes ) \nFALSE ( dbr:Hypertension hkg:treatment dbr:Quitting_smoking ) \n\n\n"}}

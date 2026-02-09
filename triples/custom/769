@@ -1,0 +1,1 @@
+{"doc_id": "769", "passages": {"rdf_passage_1": "TRUE ( dbr:COVID_19 hkg:complication dbr:Blood_clot )\nTRUE ( dbr:COVID_19 hkg:cause dbr:VITT )\nTRUE ( dbr:VITT hkg:cause dbr:AstraZeneca_COVID_19_vaccine )\nTRUE ( dbr:VITT hkg:symptom dbr:Blood_clot )\nTRUE ( dbr:Heparin hkg:mimic dbr:VITT ) \n\n\n"}}
