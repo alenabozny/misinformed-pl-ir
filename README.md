@@ -1,5 +1,7 @@
 # Reproduced study "Fact-Driven Health Information Retrieval: Integrating LLMs and Knowledge Graphs to Combat Misinformation (ECIR 2025)"  on translated Polish MisiforMED-PL dataset
 
+## This is a link to [the original experiment](https://github.com/GianCarloMilanese/fact-driven-health-ir)
+
 This repository contains the cloned code related to the ECIR 2025 short paper
 'Fact-Driven Health Information Retrieval: Integrating LLMs and Knowledge Graphs
 to Combat Misinformation' extended with custom scripts and data, namely:
